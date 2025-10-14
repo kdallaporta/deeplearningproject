@@ -1,0 +1,29 @@
+name: dlproject
+
+services:  
+  twitt-app:
+    container_name: twitt-app
+    build: .
+    env_file:
+      - .env
+
+    # Exposed port is set in .env
+    ports:
+      - "${FLASK_PORT}:${FLASK_PORT}"
+    
+    # A cache is set to handle persistent data
+    volumes:
+      - hf_cache:/root/.cache/huggingface
+      - ./runtime:/runtime
+
+    restart: unless-stopped
+
+    healthcheck:
+      test: ["CMD-SHELL", "python -c \"import os,sys,urllib.request,time; port=os.getenv('FLASK_PORT','55555'); time.sleep(1); r=urllib.request.urlopen('http://127.0.0.1:'+port, timeout=2); sys.exit(0 if r.getcode()<500 else 1)\""]
+      interval: 30s
+      timeout: 5s
+      retries: 10
+      start_period: 300s
+
+volumes:
+  hf_cache:

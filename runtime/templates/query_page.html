@@ -1,0 +1,65 @@
+<!-- templates/query_page.html -->
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Tweet Sentiment Checker 2</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<style>
+  html,body{height:100%;margin:0;font-family:system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,"Helvetica Neue",Arial}
+  .wrap{min-height:100%;display:flex;align-items:center;justify-content:center;padding:24px;background:#f7f7f9}
+  .card{width:min(860px,95vw);background:#fff;border:1px solid #e5e7eb;border-radius:14px;box-shadow:0 8px 30px rgba(0,0,0,.06);padding:24px}
+  h1{margin:0 0 12px 0;font-size:20px}
+  textarea{width:100%;min-height:120px;border:1px solid #d1d5db;border-radius:10px;padding:12px;font-size:16px;resize:vertical}
+  .btn{appearance:none;border:0;border-radius:10px;padding:12px 16px;font-weight:600;cursor:pointer;background:#111827;color:#fff}
+  .btn:disabled{opacity:.6;cursor:not-allowed}
+  .label{font-size:14px;color:#374151;margin:12px 0 6px}
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="card">
+      <h1>Tweet Sentiment Checker</h1>
+      <div class="label">Enter text</div>
+      <textarea id="input" placeholder="Type a tweet or short text..."></textarea>
+      <div style="margin:12px 0">
+        <button id="check" class="btn">Check emotion</button>
+      </div>
+      <div class="label">Result</div>
+      <textarea id="output" readonly placeholder="Result will appear here…"></textarea>
+    </div>
+  </div>
+<script>
+const btn = document.getElementById('check');
+const input = document.getElementById('input');
+const output = document.getElementById('output');
+
+function mapLabel(l){
+  if(l === 'POS') return 'Positive';
+  if(l === 'NEG') return 'Negative';
+  if(l === 'NEU') return 'Neutral';
+  return l;
+}
+
+btn.addEventListener('click', async () => {
+  const text = input.value.trim();
+  if(!text){ output.value = 'Please enter some text.'; return; }
+  btn.disabled = true; output.value = 'Analyzing…';
+  try{
+    const res = await fetch('/analyze', {
+      method: 'POST',
+      headers: {'Content-Type': 'application/json'},
+      body: JSON.stringify({text})
+    });
+    if(!res.ok){ throw new Error('HTTP ' + res.status); }
+    const data = await res.json();
+    output.value = mapLabel(data.label) + ' (' + data.label + ') — score: ' + data.score.toFixed(4);
+  }catch(e){
+    output.value = 'Error: ' + e.message;
+  }finally{
+    btn.disabled = false;
+  }
+});
+</script>
+</body>
+</html>
