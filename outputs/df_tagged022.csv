@@ -1,0 +1,1001 @@
+id,topic,sentiment,tweet,emotion_label
+7248,LeagueOfLegends,Positive,My Lovely Fox,joy
+7248,LeagueOfLegends,Positive,My darling fox.,joy
+7248,LeagueOfLegends,Positive,My lovely fox es,joy
+7248,LeagueOfLegends,Positive,My lovely little fox [UNK],joy
+7248,LeagueOfLegends,Positive,most lovely fox <unk>,joy
+7249,LeagueOfLegends,Negative,I've never been this tierd in my entire life,neutral
+7249,LeagueOfLegends,Negative,I've never been so beastly in my whole life,fear
+7249,LeagueOfLegends,Negative,I've never been like this in my entire life,neutral
+7249,LeagueOfLegends,Negative,I've never been as tierd in my entire life,neutral
+7249,LeagueOfLegends,Negative,Although I'm ve never been this tierd in my entire life,neutral
+7249,LeagueOfLegends,Negative,I've hardly been this tierd in my entire life,surprise
+7250,LeagueOfLegends,Positive,Necessity.,disgust
+7250,LeagueOfLegends,Positive,Necessary.,disgust
+7252,LeagueOfLegends,Neutral,Got some,neutral
+7252,LeagueOfLegends,Neutral,Got a few,neutral
+7252,LeagueOfLegends,Neutral,Got some,neutral
+7252,LeagueOfLegends,Neutral,Got cha,neutral
+7252,LeagueOfLegends,Neutral,Got in some,neutral
+7252,LeagueOfLegends,Neutral,Got It,neutral
+7254,LeagueOfLegends,Neutral,Check out my video!,joy
+7254,LeagueOfLegends,Neutral,Take a look at my video!,joy
+7254,LeagueOfLegends,Neutral,Watch my video!,joy
+7254,LeagueOfLegends,Neutral,Check out their video!,joy
+7254,LeagueOfLegends,Neutral,Check out via my video!,joy
+7254,LeagueOfLegends,Neutral,Check<unk> my video!,neutral
+7255,LeagueOfLegends,Neutral,"Sharing some LoL stuff from the last years, cuz I've been dead on here. Next: Kai'sa from",neutral
+7255,LeagueOfLegends,Neutral,I've shared some LoL stuff from the last few years because I was dead here. Next: Kai'sa from,neutral
+7255,LeagueOfLegends,Neutral,"Sharing some things from the last few years, I'm dead here.",sadness
+7255,LeagueOfLegends,Neutral,"Sharing some LoL stuff from our last years, cuz I've been lurking on here. Next: Kai'sa from",neutral
+7255,LeagueOfLegends,Neutral,"15 Sharing some LoL stuff somewhere from the last thirty years, cuz I've been dead on here. Next : What Kai'sa said from",neutral
+7255,LeagueOfLegends,Neutral,"Sharing some interesting stuff from the last week, cuz people've been dead since here. Next: Kai'sa from",neutral
+7256,LeagueOfLegends,Neutral,After several mental breakdowns I proudly present you:. Flourish Gun Jhin (Immortal Journey Skinline) . A big shout out and many thanks to @unforjhinately and @IceSayu for helping me with the design and keeping me going.,joy
+7256,LeagueOfLegends,Neutral,After several mental breakdowns I proudly present you:. Flourish Gun Jhin (Immortal Journey Skinline). A big outcry and many thanks to @ unforjhinately and @ IceSayu for helping me design and keeping me going.,anger
+7256,LeagueOfLegends,Neutral,"After a few mental breakdowns, I'm proud to introduce you to:. Immel Journey Skinline. Big shout out and thanks to @ unforjhinately and @ IceSayu for helping me develop and keep me moving.",joy
+7256,LeagueOfLegends,Neutral,After several mental breakdowns to proudly present you:. A Gun shot (Immortal Journey Skinline). A big shout outs and many thanks to Jon and @unforjhinately for helping me with the design and keeping me going.,joy
+7256,LeagueOfLegends,Neutral,After taking several mental breakdowns I proudly present in you :. Flourish Gun Jhin ( Immortal Secret Journey Skinline ). In A big shout out and an many thanks offers to @unforjhinately itself and Thanks @IceSayu for helping me with the final design and keeping me cool going.,joy
+7256,LeagueOfLegends,Neutral,After several mental breakdowns I now present you:. Flourish Gun Jhin (Immortal Journey Skinline). Another quick shout home with many congratulations Julie @unforjhinately and @IceSayu for helping me with the design and keeping things going.,joy
+7258,LeagueOfLegends,Neutral,The SFL IS a league of Legends! @simulationfl,neutral
+7258,LeagueOfLegends,Neutral,The SFL IS a league of legends! @ simulationfl,joy
+7258,LeagueOfLegends,Neutral,SFL IS a league of Legends! @ fallationfl,neutral
+7258,LeagueOfLegends,Neutral,The SFL IS a league of hearts! @simulationfl,joy
+7258,LeagueOfLegends,Neutral,The SFL region IS a playable league of Legends! @simulationfl,joy
+7258,LeagueOfLegends,Neutral,of SFL IS a league on Legends! @simulationfl,surprise
+7259,LeagueOfLegends,Neutral,"I'm excited to announce our partnership with @VolvicDE. The cooperation with Volvic is an exclamation mark in German esport. At the same time, it's an award for our success in @LeagueOfLegends and the tremendous efforts of our team and staff behind the scenes. Thank you! pic.twitter.com/c6eLixSdZK",joy
+7259,LeagueOfLegends,Neutral,"I am pleased to announce our partnership with @ VolvicDE. Working with Volvic is an exclamation point in German sport. At the same time, it is an award for our success in @ LeagueOfLegends and the enormous efforts of our team and staff behind the scenes. Thank you! pic.twitter.com / c6eLixSdZK",joy
+7259,LeagueOfLegends,Neutral,"I am pleased to announce our partnership with @ VolvicDE. Collaboration with Volvic is an exclamation mark in German sport. At the same time, it is an award for our success at @ LeagueOfLegends and the tremendous efforts of our team and staff behind the scenes. Thank you! pic.facebook.com / c6eLixSdZK",joy
+7259,LeagueOfLegends,Neutral,"I'm excited to announce our partnership with RhandlerR. The cooperation with Volvic is an exclamation mark in German esport. At the same time, it's an award for our success in RhandlerR and the tremendous efforts of our team and staff behind the scenes. Thank you! pic.twitter.com/c6eLixSdZK",joy
+7259,LeagueOfLegends,Neutral,"2008 I'm excited to announce our partnership with RhandlerR. The cooperation with Volvic is an exclamation mark in German esport. At the same time, it's an award for our success in RhandlerR and the tremendous efforts of our team and staff behind the scenes. Thank you! pic.twitter.com/c6eLixSdZK",joy
+7260,LeagueOfLegends,Neutral,Playing LoL then realizing you're actually not as mentally strong as you thought you were.,surprise
+7260,LeagueOfLegends,Neutral,"When you play LoL, you realise that you're not actually as mentally strong as you thought.",neutral
+7260,LeagueOfLegends,Neutral,"When you play LoL, you realize that you're not really as strong-minded as you thought.",neutral
+7260,LeagueOfLegends,Neutral,Playing dumb then realizing you're actually not as mentally strong as you thought you were.,disgust
+7260,LeagueOfLegends,Neutral,Playing LoL... then realizing you're actually not as mentally conscious strong as where you thought you were.,surprise
+7260,LeagueOfLegends,Neutral,Playing nice then realizing you're actually not as mentally strong as you said you were.,neutral
+7261,LeagueOfLegends,Positive,Malphite Shard of the Monolith is always a good pick.. . Attack: . . Defense: . . Magic: . . Difficulty: . . .,neutral
+7261,LeagueOfLegends,Positive,Malphite shards of the monolith is always a good choice... Attack:.. Defense:... Magic:... Difficulty:...,neutral
+7261,LeagueOfLegends,Positive,A Malfit Shard of Monolith is always a good choice... Attack:. Defense:. Magic:. Difficulty:...,neutral
+7261,LeagueOfLegends,Positive,Malphite Shard of Skull Monolith is always a good pick... Attack:.. Armor:.. Magic:. ) Difficulty:...,neutral
+7261,LeagueOfLegends,Positive,in Malphite Shard Art of War the Monolith is more always a good hard pick... Attack :.. Physical Defense :.. In Magic :.. Difficulty :...,neutral
+7261,LeagueOfLegends,Positive,that Shard of Your Heart Not always a good design... Design:.. Defense:.. Magic:.. Materials:...,sadness
+7262,LeagueOfLegends,Negative,BTW that wasn’t serious I hate this game,anger
+7262,LeagueOfLegends,Negative,BTW this was not serious I hate this game,anger
+7262,LeagueOfLegends,Negative,BTW that was not serious I hate this game,anger
+7262,LeagueOfLegends,Negative,BTW that wasn’t serious will hate this game,anger
+7262,LeagueOfLegends,Negative,Now BTW that wasn ’ t serious I hate this game game,anger
+7262,LeagueOfLegends,Negative,BTW that wasn’t serious I finished this game,neutral
+7263,LeagueOfLegends,Neutral,OMG WT* TF DRAFTED TO ENEMY BASE ??,surprise
+7263,LeagueOfLegends,Neutral,OMG WT * TF ENEMY BASE DEVELOPED??,surprise
+7263,LeagueOfLegends,Neutral,OMG WT * TF DRAFTED TO ENEMY BASE???,surprise
+7263,LeagueOfLegends,Neutral,OMG WT* TF DRAFTED TO ENEMY BASE BALL,surprise
+7263,LeagueOfLegends,Neutral,OMG from WT * TF I DRAFTED You TO ENEMY I BASE??,surprise
+7263,LeagueOfLegends,Neutral,H WT* TF DRAFTED A ENEMY<unk>??,neutral
+7265,LeagueOfLegends,Neutral,"I love League of Legends, but I hate playing the game.",disgust
+7265,LeagueOfLegends,Neutral,I love League of Legends but I hate playing the game.,anger
+7265,LeagueOfLegends,Neutral,"I love Legends League, but I hate playing this game.",anger
+7265,LeagueOfLegends,Neutral,"I love League of Legends, but I hate playing every game.",anger
+7265,LeagueOfLegends,Neutral,"I love the League of Legends, but I hate playing the team game.",anger
+7265,LeagueOfLegends,Neutral,"I love League des Legends, damn I hate playing the game.",anger
+7266,LeagueOfLegends,Positive,favorite pastime league of legends...i knew i could trust this bxtch,joy
+7266,LeagueOfLegends,Positive,Favourite pastime League of Legends... I knew I could trust this Bxtch,joy
+7266,LeagueOfLegends,Positive,favorite league of pederasts... I knew I could trust this bkx,neutral
+7266,LeagueOfLegends,Positive,favorite pastime league of legends...i knew i could trust this voice,joy
+7266,LeagueOfLegends,Positive,My favorite pastime league full of legends... Now i knew i could trust this bxtch,joy
+7266,LeagueOfLegends,Positive,favorite pastime league on men...i hope i could trust this bxtch,joy
+7267,LeagueOfLegends,Positive,Yuumi - super cool fucking cat. Braum - such a good person. Neeko - damn funny. Janna - she would take good care,joy
+7267,LeagueOfLegends,Positive,Yuumi - super cool damn cat. Baum - such a good person. Neeko - damn funny. Janna - she would watch out,joy
+7267,LeagueOfLegends,Positive,Juumi is a super cool fucking cat. Bako is such a good person. Neeco is devilishly funny.,joy
+7267,LeagueOfLegends,Positive,Yuumi - super cool cat cat. Braum - like a good person. Neeko - damn funny. Janna thought she would take good care,joy
+7267,LeagueOfLegends,Positive,Yuumi - super high cool... fucking talking cat. Braum - seems such a good person. Neeko - Too damn funny. Janna - she would probably take good care,joy
+7267,LeagueOfLegends,Positive,a - super good fucking cat. Braum - such a good person. Neeko - damn funny. Janna - really does take good from,joy
+7268,LeagueOfLegends,Neutral,"I remember watching this live and wondering who choreographed the dance. These four women are bloody incredible! If you want three minutes of goosebumps, watch this:",surprise
+7268,LeagueOfLegends,Neutral,"I remember watching it live and wondering who choreographed the dance. These four women are just incredible! If you want to have three minutes of goosebumps, look at this:",surprise
+7268,LeagueOfLegends,Neutral,"I remember watching it live and wondering who was dancing. These four women are bloody incredible! If you want three minutes of goosebumps, look at this:",surprise
+7268,LeagueOfLegends,Neutral,"I remember watching this live and learning who choreographed the dance. These four women are bloody incredible! If ya want three minutes of goosebumps, grab this:",surprise
+7268,LeagueOfLegends,Neutral,"How I can remember watching this woman live and wondering who choreographed the dance. These four women are so bloody incredible! If ever you want three minutes of goosebumps, just watch this :",surprise
+7268,LeagueOfLegends,Neutral,"I remember watching this live and knowing who choreographed the dance. These four guys are bloody incredible! If I want three sets of fun, watch this:",neutral
+7269,LeagueOfLegends,Neutral,Hi everyone! Here's my skin concept for Syndra! A demon from Spirit Blossom ! Hope you'll enjoy it! . . (+ I'll try to upload more drawings and less shitty post). .,joy
+7269,LeagueOfLegends,Neutral,Hi everyone! Here is my skin concept for Syndra! A demon from Spirit Blossom! Hope you like it!.. (+ I will try to upload more drawings and less crappy posts).,joy
+7269,LeagueOfLegends,Neutral,Hello everyone! Here's my skin concept for Sindra! A demon from Spirit Bissom! I hope you enjoy it!... (+ I'll try to upload more pictures and less crap post).,joy
+7269,LeagueOfLegends,Neutral,Hi everyone! Here's my skin concept for Syndra! The present from Spirit Blossom! Hope you'll enjoy it!.. (+ I'll try to upload actual artwork and less shitty post)..,joy
+7269,LeagueOfLegends,Neutral,Hi everyone! Here's this my official skin colour concept for Captain Syndra! A demon from Spirit Blossom! Hope anything you'll enjoy it!.. ( + I'd ll never try to upload more bad drawings... and less shitty post )..,joy
+7271,LeagueOfLegends,Neutral,after almost 10 years i finally changed my league of legends username holy god,surprise
+7271,LeagueOfLegends,Neutral,after almost 10 years I finally changed my legendary name holy god,joy
+7271,LeagueOfLegends,Neutral,"After almost 10 years, I have finally changed my league of users, calling myself a holy god",neutral
+7271,LeagueOfLegends,Neutral,after hacking 10 years i finally changed my league of legends username holy god,surprise
+7271,LeagueOfLegends,Neutral,after this almost 10 years i finally independently changed my league of a legends username holy god,surprise
+7271,LeagueOfLegends,Neutral,after maybe 10 years i finally changed my league super legends username holy god,surprise
+7272,LeagueOfLegends,Negative,my dopamine receptors have been fucked by league of legends. i can no longer play a game unless it's competitive and it feels bad,sadness
+7272,LeagueOfLegends,Negative,My dopamine receptors have been fucked by the League of Legends. I can no longer play a game unless it is competitive and it feels bad.,disgust
+7272,LeagueOfLegends,Negative,I can no longer play the game until it is competitive and it feels bad,sadness
+7272,LeagueOfLegends,Negative,my dopamine levels have bee fucked by league of legends. i can no longer play a game unless it's competitive and it feels bad,sadness
+7272,LeagueOfLegends,Negative,my dopamine receptors have been fucked by any league of crime legends. i can no really longer play a game unless it's really competitive and suddenly it feels bad,sadness
+7272,LeagueOfLegends,Negative,my TV receptors have been fucked by league of legends. i can no more play this game as all's competitive and it feels bad,sadness
+7273,LeagueOfLegends,Positive,well i know from being on league of legends for so long its pointless to talk back to the trolls so i just agree with them and it pisses them off,neutral
+7273,LeagueOfLegends,Positive,"Well, I know there's no point being in the League of Legends for so long, talking back to the trolls, so I just agree with them and it annoys them.",neutral
+7273,LeagueOfLegends,Positive,well i know from being on league of hands for so long its banker to talk back to the troops so i just agree with them and it pisses them off,neutral
+7273,LeagueOfLegends,Positive,well i know from being on league of legends for so long its pointless to talk back towards the trolls why i just agree with them unless it pisses them off,neutral
+7273,LeagueOfLegends,Positive,pretty well i know from being on deep league outside of legends for so damn long its pointless having to talk back to the trolls... so i just agree with them and it pisses them off,sadness
+7273,LeagueOfLegends,Positive,well i know from being on league of legends something so long its impossible to talk back to the reality so i just agree with them until it pisses others off,neutral
+7275,LeagueOfLegends,Negative,Disappointed tbh.,sadness
+7275,LeagueOfLegends,Negative,Disappointed tbh.,sadness
+7275,LeagueOfLegends,Negative,Disappointment tbh.,sadness
+7275,LeagueOfLegends,Negative,Disappointed silence.,sadness
+7275,LeagueOfLegends,Negative,7 Disappointed tbh.,sadness
+7275,LeagueOfLegends,Negative,anyway tbh.,neutral
+7276,LeagueOfLegends,Neutral,"Likes, please!!. Love LoL? Visit us: rivenastore.com.",neutral
+7276,LeagueOfLegends,Neutral,"Likes, please!!. Love LoL? Visit us at: rivenastore.com.",neutral
+7276,LeagueOfLegends,Neutral,Love LoL? Visit us: rivenastore.com.,neutral
+7276,LeagueOfLegends,Neutral,"Likes, please!!. In LoL? Visit him: rivenastore.com.",neutral
+7276,LeagueOfLegends,Neutral,"Likes, fuck please!!. Does Love LoL? Visit for us : rivenastore. at com.",neutral
+7276,LeagueOfLegends,Neutral,"Likes, please!!. What not? Visit Official: rivenastore.com.",neutral
+7277,LeagueOfLegends,Neutral,"League of Legends Ranked Promo Update:. . Today’s game included a Mordekaiser who died and then afk’d. Came back 10 mins later, died again and afk’d. Then came back a few mins later, flamed and then afk’d again . . We lost the game . . :)",sadness
+7277,LeagueOfLegends,Neutral,"League of Legends Ranked Promo Update:... Today's game featured a Mordecemperor who died and then disappeared again. Came back 10 minutes later, died again and disappeared again. Came back a few minutes later, ignited and then resurfaced again... We lost the game...)",sadness
+7277,LeagueOfLegends,Neutral,"League of Legends Ranking Promo:.. Today's game included Mordauser who died and then afk'd. Returned after 10 minutes, died again and afk'd. Then came back a few minutes later, flared up, and then afk'd again... We lost the game...:)",sadness
+7277,LeagueOfLegends,Neutral,"League of Legends 3 Promo Update:.. Our game included the Mordekaiser who died and the afk’d. Came back 10 mins before, died again and afk’d. Then came back that few mins later, flamed and then afk’d again.. We lost every game.. :)",sadness
+7277,LeagueOfLegends,Neutral,"League of Poker Legends Ranked Promo Update :.. Today ’ s game included a Mordekaiser who accidentally died and and then afk ’ d. Came fire back 10 14 mins time later, died back again and and afk ’ d. Then came back a few mins later, flamed and then afk ’ d again.. and We lost finishing the game.. : )",sadness
+7277,LeagueOfLegends,Neutral,"League or Legends Ranked Promo game:.. The game featured one Mordekaiser who lit something then afk’d. Came home 10 mins later, died again and afk’d. Then coming back a few mins later, flamed and then afk’d again.. We stopped the game.. :)",sadness
+7279,LeagueOfLegends,Negative,It is not the first time that the EU Commission has taken such a step.,neutral
+7279,LeagueOfLegends,Negative,"At the same time, despite the fact that there are currently some 100 million people living below the poverty line, most of them do not have access to health services and do not have access to health care, while most of them do not have access to health care.",neutral
+7280,LeagueOfLegends,Neutral,"Source [LIVE] . . Phantasy Star Online 2 [ Ship 3 is my home ship now ]. .  + UNBOXING the amazing, gorgeous RhandlerR 915 TKL! Omgawhed  . . twitch.tv/djtechlive. . Clash Tournament on RhandlerR later tonight RhttpR]",surprise
+7281,LeagueOfLegends,Negative,This doesn't even make sense,disgust
+7281,LeagueOfLegends,Negative,That doesn't even make sense,disgust
+7281,LeagueOfLegends,Negative,It doesn't even make sense,disgust
+7281,LeagueOfLegends,Negative,This doesn't always make sense,disgust
+7281,LeagueOfLegends,Negative,This doesn't even fully make sense,disgust
+7281,LeagueOfLegends,Negative,This doesn't even make a,disgust
+7282,LeagueOfLegends,Positive,star guardians have incredibly messy sleep schedules.  . . rt please so i don't flop :') pic.twitter.com/DINBJst1Zz,sadness
+7282,LeagueOfLegends,Positive,Star guards have incredibly chaotic sleep schedules... rt please so I don't flop: ') pic.twitter.com / DINBJst1Zz,fear
+7282,LeagueOfLegends,Positive,Star Guards have an incredibly busy sleep schedule... Please so I don't burst: ') pic.facebook.com / DINBJst1Zz,anger
+7282,LeagueOfLegends,Positive,star guardians have incredibly messy sleep schedules.  . . rt please so i don't flop :') pic.twitter.com/DINBJst1Zz,sadness
+7282,LeagueOfLegends,Positive,W star guardians have incredibly messy sleep schedules.  . . rt please so i don't flop :') pic.twitter.com/DINBJst1Zz,sadness
+7283,LeagueOfLegends,Neutral,"I fanart @seradotwav ,she is so beautiful like Zoe  >< . .",joy
+7283,LeagueOfLegends,Neutral,"I fanart @ seradotwav, she's as beautiful as Zoe > <.",joy
+7283,LeagueOfLegends,Neutral,"I'm a fan of @ seradotwav, she's as beautiful as Zoe.",joy
+7283,LeagueOfLegends,Neutral,"I fanart @seradotwav,she is so beautiful like Zoe  >< r.",joy
+7283,LeagueOfLegends,Neutral,"I fanart to @seradotwav, she is always so beautiful like as Zoe > <..",neutral
+7283,LeagueOfLegends,Neutral,"created fanart @seradotwav,she is just beautiful<unk> Zoe ><..",neutral
+7284,LeagueOfLegends,Neutral,Check out my video!,joy
+7284,LeagueOfLegends,Neutral,Take a look at my video!,joy
+7284,LeagueOfLegends,Neutral,Watch my video!,joy
+7284,LeagueOfLegends,Neutral,Check here my video!,joy
+7284,LeagueOfLegends,Neutral,Check out my upcoming video!,joy
+7284,LeagueOfLegends,Neutral,Check Back my video!,joy
+7285,LeagueOfLegends,Negative,damn just want my 100lp back can’t have shit in league of legends,anger
+7285,LeagueOfLegends,Negative,I just want my 100lp back to have no shit in the League of Legends,anger
+7285,LeagueOfLegends,Negative,damn just want my 100lp back can't have shit in league of hands,anger
+7285,LeagueOfLegends,Negative,damn just want my 100lp back can’t have shit in head of legends,anger
+7285,LeagueOfLegends,Negative,damn just want back my big 100lp back can ’ t have shit in league of rock legends,anger
+7285,LeagueOfLegends,Negative,just just want my 100lp back can’t have shit so league of legends,neutral
+7286,LeagueOfLegends,Negative,Fucking HATE LEAGUE OF LEGENDS,anger
+7286,LeagueOfLegends,Negative,Damn HATE LEAGUE OF LEGENDS,anger
+7286,LeagueOfLegends,Negative,Fucking HATE LEAGUE OF LEGENDS,anger
+7286,LeagueOfLegends,Negative,Fucking THE LEAGUE OF LEGENDS,anger
+7286,LeagueOfLegends,Negative,Fucking HATE LEAGUE ONE OF TO LEGENDS,anger
+7286,LeagueOfLegends,Negative,Fucking T LEAGUE G LEGENDS,anger
+7287,LeagueOfLegends,Positive,Ashe the Frost Archer is almost as strong as Draven.. . Attack: . . Defense: . . Magic: . . Difficulty: . . .,neutral
+7287,LeagueOfLegends,Positive,Ashe the Frost Archer is almost as strong as Draven... Attack:.. Defense:... Magic:... Difficulty:...,neutral
+7287,LeagueOfLegends,Positive,Ash the Frosty Archer is almost as strong as Draven.. Attack:. Defense:. Magic:. Difficulty:...,neutral
+7287,LeagueOfLegends,Positive,Ashe the Frost Archer is almost as strong as Draven... Attack:.. Technique:?. Magic:.. Offense:...,neutral
+7287,LeagueOfLegends,Positive,Ashe or the Frost Archer is sometimes almost half as incredibly strong as Dragon Draven... Combat Attack :.. Defense :.. Magic :..... Difficulty :...,neutral
+7287,LeagueOfLegends,Positive,and the Frost Archer is written as much on I... Attack:.. Defense:.. Song:.. Combat:...,neutral
+7288,LeagueOfLegends,Neutral,Fuck this. Listen to me: FUCK. THIS. Tons of fucking IP you were REQUIRED to spend just for stats or you couldn't play the game well. Nothing more. Thank Phreak for the new runes,anger
+7288,LeagueOfLegends,Neutral,"Listen to me: FICK. THIS. Tons of damn IP that you just had to spend on statistics, otherwise you couldn't play the game well. No more. Thanks Phreak for the new runes.",anger
+7288,LeagueOfLegends,Neutral,Fuck this. Listen to me: FUCK. THIS. Tons of fucking IP you were REQUIRED to spend just for stats or you couldn't play the game well. Nothing more. Thank Pheak for the new runs,anger
+7288,LeagueOfLegends,Neutral,Fuck this. Listen... me: FUCK. THIS. Tons of fucking IP you were REQUIRED – spend just for stats or you couldn't play the game afterwards. Nothing more. Thank Phreak for the new runes,anger
+7288,LeagueOfLegends,Neutral,48 Fuck this. Listen to for me : FUCK. THIS. Tons of fucking IP you were REQUIRED had to spend that just for stats of or so you couldn't always play the game well. 4 Nothing more. Thank that Phreak again for the new runes,anger
+7288,LeagueOfLegends,Neutral,Fuck this. Listen to me: FUCK. THIS. Tons of lost IP you just REQUIRED to lose just for stats or you couldn't play but fuck anything. Nothing happened. Thank Phreak for the new runes,anger
+7289,LeagueOfLegends,Neutral,made a smol little piece to celebrate my team's victory in being in the top 3 of Clash for @LeagueOfLegends .  pic.twitter.com/VLYISfScqt,joy
+7289,LeagueOfLegends,Neutral,made a little smooch to celebrate my team's victory in the Top 3 of Clash for @ LeagueOfLegends. pic.twitter.com / VLYISfScqt,joy
+7289,LeagueOfLegends,Neutral,made a little piece of pitch to celebrate my team's victory in the top 3 Clash for @ LeagueOfLegends. pic.facebook.com / VLYISfScqt,joy
+7289,LeagueOfLegends,Neutral,made a smol little piece to celebrate my team's victory in being in the top 3 of Clash for RhandlerR .  pic.twitter.com/VLYISfScqt,joy
+7289,LeagueOfLegends,Neutral,or made a smol little piece to celebrate my team's victory in being in the top 3 of Clash for RhandlerR .  pic.twitter.com/VLYISfScqt,joy
+7290,LeagueOfLegends,Neutral,"Loltober day 10- favorite duo:. . I didn't understood that well so i decided to Go with my favorite combo in the game, poppy+trundle :^). .  .",surprise
+7290,LeagueOfLegends,Neutral,"LolOctober Day 10 - Favorite Duo:... I did not understand this so well, so I chose my favorite combo in the game, Poppy + Trundle: ^)..",surprise
+7290,LeagueOfLegends,Neutral,"LolOctober day 10- favorite duet:... I did not understand that so i decided to Go with my favorite combo in the game, pfbly + trundle: ^)....",surprise
+7290,LeagueOfLegends,Neutral,"Loltober day<unk>- favorite duo:.. He didn't understood very well so i decided to Go with my favorite combo in the game, poppy+trundle :^). / .",sadness
+7290,LeagueOfLegends,Neutral,"Loltober day number 10 - favorite duo :.. I didn't always understood half that sentence well so i I decided to Go with i my most favorite combo in the final game, now poppy + trundle : ^ )...",surprise
+7291,LeagueOfLegends,Negative,that ya know poppy bug killing the game right now right? disable that now,neutral
+7292,LeagueOfLegends,Neutral,Twitch.tv/1trickporo. LIVE 6pm AEST. IT'S GONG TIME!.,neutral
+7292,LeagueOfLegends,Neutral,Twitch.tv / 1trickporo. LIVE 6pm AEST. ES GONG TIME!.,neutral
+7292,LeagueOfLegends,Neutral,TV / 1trickporo. LIVE 6pm AEST. IT'S GONG TIME!.,neutral
+7292,LeagueOfLegends,Neutral,Twitch.tv/1trickporo. LIVE 500 PT. IT'S GONG TIME!.,surprise
+7292,LeagueOfLegends,Neutral,Twitch. tv / via 1trickporo. AS LIVE 6pm P AEST. ONE IT'D S AND GONG TIME!.,neutral
+7292,LeagueOfLegends,Neutral,mine.tv/1trickporo. LIVE IT 8. IT'S GONG TIME!.,neutral
+7293,LeagueOfLegends,Positive,Getting down on some hecka-gaming via the amazing world of League of Legends!. . Thirsty Thursdays - Let's SLAM!! [!COMMANDS][!MURICA]. . twitch.tv/Shawaine,joy
+7293,LeagueOfLegends,Positive,Down from Hecka-Gaming through the fantastic world of League of Legends!.. Thirsty Thursday - Let's SLAM!! [! COMMANDS] [! MURICA].. twitch.tv / Shawaine,joy
+7293,LeagueOfLegends,Positive,Engaging in some haka-gambling through the amazing world of League of Legends!... Thursday's Thirst - Let's SLAM!! [! COMMANDS] [! MURICA].................................................................................................................................,neutral
+7293,LeagueOfLegends,Positive,Getting down on some hecka-gaming via the amazing world of League of Legends!. . Thirsty Thursdays - Let's SLAM!! [!COMMANDS][!MURICA]. . twitch.tv/Shawaine,joy
+7293,LeagueOfLegends,Positive,or Getting down on some hecka-gaming via the amazing world of League of Legends!. . Thirsty Thursdays - Let's SLAM!! [!COMMANDS][!MURICA]. . twitch.tv/Shawaine,joy
+7294,LeagueOfLegends,Neutral,Check out my video!,joy
+7294,LeagueOfLegends,Neutral,Take a look at my video!,joy
+7294,LeagueOfLegends,Neutral,Watch my video!,joy
+7294,LeagueOfLegends,Neutral,Check out new video!,joy
+7294,LeagueOfLegends,Neutral,Check out of my video!,joy
+7294,LeagueOfLegends,Neutral,Check<unk> my video!,neutral
+7297,LeagueOfLegends,Negative,League of legends sucks.,disgust
+7297,LeagueOfLegends,Negative,League of Legends sucks.,disgust
+7297,LeagueOfLegends,Negative,The League of Gentlemen sucks.,disgust
+7297,LeagueOfLegends,Negative,League of legends<unk>.,neutral
+7297,LeagueOfLegends,Negative,League of light legends sucks.,disgust
+7297,LeagueOfLegends,Negative,League Hockey legends sucks.,disgust
+7298,LeagueOfLegends,Negative,"the way ur ranked system works is fucking ATROCIOUS, HORRENDOUS, DISGUSTING, PERPLEXING, AND BAFFLING. WHY PUT ME AGAINST GOLDS WHEN MY RANK IS BRONZE 3. HOW AM I SUPPOSED TO CLIMB WHEN I'M GOING PEOPLE THAT ARENT MY RANK? @LeagueOfLegends",anger
+7298,LeagueOfLegends,Negative,"The way our ranking system works is damned ATROZIO, HORRENDOUS, DISGUSTING, PERPLEXING and BAFFLING. WHY TO GOLD ME AGAINST IF MY RANK IS BRONZE 3. HOW HAVE I CLOSED IF I PEOPLE THAT I COME MY RANK? @ LeagueOfLegends",anger
+7298,LeagueOfLegends,Negative,WHY ARE I AGAINST GOLD WHEN MY RANK BRONZE 3. HOW do I SUPPORT A CLIMB WHEN I go PEOPLE WHAT ARE MY RANK? @ LeagueOfLegends,anger
+7298,LeagueOfLegends,Negative,"the way ur ranked system works is fucking ATROCIOUS, HORRENDOUS, DISGUSTING, PERPLEXING, AND BAFFLING. WHY START ME AGAINST GOLDS WHEN LAST TYPE IS BRONZE CLASS. WHAT AM I PAY BY CLIMB WHEN I'M GOING TO THAT ARENT MY RANK? @LeagueOfLegends",anger
+7298,LeagueOfLegends,Negative,"That the way an ur ranked system works is fucking ATROCIOUS, but HORRENDOUS, DISGUSTING, But PERPLEXING, AND BAFFLING. 1 WHY PUT ME AGAINST GOLDS IS WHEN much MY RANK IS AT BRONZE 3. HOW AM I SUPPOSED TO CLIMB WHEN that I'M GOING PEOPLE THAT WHO ARENT MY RANK? @LeagueOfLegends",anger
+7298,LeagueOfLegends,Negative,"the ways ur ranked system works is HOW ATROCIOUS, HORRENDOUS, DISGUSTING, PERPLEXING, AND SO. CAN I ME IN GOLDS WHEN MY RANK IS BRONZE ONLY. HOW AM I SUPPOSED TO CLIMB THAT THAT'M GOING IN THAT ARENT MY RANK? @LeagueOfLegends",anger
+7300,LeagueOfLegends,Negative,Contact @LeagueOfLegends if these changes to the new items hit the live virtual servers i am done after 6 years with the game. Also These unique changes are exactely like what Epic did to Fortnite. I am fairly sure there are many other players agreeing with this me. Tested pbe for myself and it was horrible and about a full game disaster,fear
+7301,LeagueOfLegends,Neutral,is league of legends finally illegal?,surprise
+7301,LeagueOfLegends,Neutral,Is League of Legends finally illegal?,neutral
+7301,LeagueOfLegends,Neutral,Is the Champions League finally illegal?,anger
+7301,LeagueOfLegends,Neutral,is league of lawyers finally illegal?,surprise
+7301,LeagueOfLegends,Neutral,is league of old legends finally illegal?,surprise
+7301,LeagueOfLegends,Neutral,is league of legends football illegal?,anger
+7302,LeagueOfLegends,Neutral,Top Best Laptop For League of Legends. . toptechstuff.com/best-laptop-fo…,neutral
+7302,LeagueOfLegends,Neutral,Top Best Laptop For League of Legends.. toptechstuff.com / best-laptop-fo...,neutral
+7302,LeagueOfLegends,Neutral,Top Best / top For League of Legends... toptechstuff.com / best-laptop-best...,neutral
+7302,LeagueOfLegends,Neutral,Top Best Laptop For Game of Legends..<unk>.com/best-laptop-fo…,neutral
+7302,LeagueOfLegends,Neutral,Top Best Laptop Buy For League League of Legends.. on toptechstuff. com / best - brand laptop - fo html …,neutral
+7302,LeagueOfLegends,Neutral,Top Flat Ball For League of Legends.. net.com/best-laptop-fo...,neutral
+7303,LeagueOfLegends,Negative,Just faced the Blindness status in,neutral
+7303,LeagueOfLegends,Negative,Confronted only with the blindness status,fear
+7303,LeagueOfLegends,Negative,Simply faced with the status of blindness in,fear
+7303,LeagueOfLegends,Negative,Just under the Blindness status in,neutral
+7303,LeagueOfLegends,Negative,Just faced for the Blindness status in,neutral
+7303,LeagueOfLegends,Negative,Just faced with Blindness status in,fear
+7304,LeagueOfLegends,Positive,Nonbinary and very tired usually but this is still the best league of legends art tbh.,neutral
+7304,LeagueOfLegends,Positive,"Not binary and very tired usually, but this is still the best league of legends art tbh.",neutral
+7304,LeagueOfLegends,Positive,"Nonbinary and very tired usually, but it is still the best league of modern art tbh.",neutral
+7304,LeagueOfLegends,Positive,Nonbinary and very tired usually but this is still probably best league of legends art tbh.,neutral
+7304,LeagueOfLegends,Positive,Nonbinary and very tired usually not but this is still the best playing league of the legends art in tbh.,neutral
+7304,LeagueOfLegends,Positive,13 and very tired usually but music is still really best league of legends art tbh.,neutral
+7305,LeagueOfLegends,Positive,Loving these pro scrims incentives,joy
+7305,LeagueOfLegends,Positive,Love these incentives per scrims,neutral
+7305,LeagueOfLegends,Positive,Loyalty to these arguments stimulates,neutral
+7305,LeagueOfLegends,Positive,Loving these pro<unk> incentives,joy
+7305,LeagueOfLegends,Positive,To Loving these pro scrims incentives,neutral
+7305,LeagueOfLegends,Positive,Loving California pro scrims incentives,joy
+7308,LeagueOfLegends,Neutral,wow my bro rlly is being a piss baby and disconecting everyone else's internet with selfishnet bc he can't play league of legends huh,surprise
+7308,LeagueOfLegends,Neutral,wow my bro rlly is a piss baby and discounts the internet of everyone else with selfish web bc he can not play League of Legends huh,surprise
+7308,LeagueOfLegends,Neutral,wow my bro rlly is being a piss baby and disconnecting everyone's internet with selfishnet bc he can't play league of hugs huh,surprise
+7308,LeagueOfLegends,Neutral,wow my bro rlly is being a piss<unk> and disconecting people else's internet with selfishnet bc he can't play league against legends huh,surprise
+7308,LeagueOfLegends,Neutral,wow my bro b rlly dad is being a complete piss baby ass and disconecting everyone else's popular internet conversation with selfishnet bc he can't play this league of legends huh,surprise
+7308,LeagueOfLegends,Neutral,wow my bro rlly is being this piss baby and taking everyone girlfriend's time with selfishnet bc he can't play house of legends huh,surprise
+7309,LeagueOfLegends,Positive,Yo @RiotSupport sure u did not want to release Yone a few years ago?. Cause Yone is dabbing while running with Homeguards.. .  .  .,surprise
+7309,LeagueOfLegends,Positive,Yo @ RiotSupport sure you didn't want to release Yone a few years ago?. Because Yone dabs while walking with Homeguards...,neutral
+7309,LeagueOfLegends,Positive,Yo @ RiotSupport sure u didn't want to release Yone a few years ago?.,surprise
+7309,LeagueOfLegends,Positive,Yo @RiotSupport sure u did not want to release Yone a few moment ago?. Cause Yone is dabbing while reading his Homeguards... . .,neutral
+7309,LeagueOfLegends,Positive,No Yo @RiotSupport sure when u You did not want to release Yone a full few years just ago?. Cause now Yone is dabbing while running with The Homeguards.....,neutral
+7309,LeagueOfLegends,Positive,the @RiotSupport sure u might not want to release Yone a few levels but?. Cause Yone kept dabbing while running with an.....,neutral
+7311,LeagueOfLegends,Negative,worse than playing league of legends 7 straight hours,disgust
+7311,LeagueOfLegends,Negative,Worse than playing League of Legends for 7 hours in a row,disgust
+7311,LeagueOfLegends,Negative,worse than playing in the league seven hours in a row,disgust
+7311,LeagueOfLegends,Negative,worse than playing league of legends 7 straight years,disgust
+7311,LeagueOfLegends,Negative,Not worse than playing league of legends 7 straight hours,disgust
+7311,LeagueOfLegends,Negative,worse than playing league of legends 7 60 hours,disgust
+7312,LeagueOfLegends,Positive,In just over an hour it will be my favorite day of the year. League of Legends Worlds Finals. This is it. This is what I’ve been waiting all of 2020 for. All my hopes for this year having a decent end are riding on this game in 7 hours,neutral
+7312,LeagueOfLegends,Positive,"In just over an hour, it will be my favorite day of the year. League of Legends Worlds Finals. That's it. That's what I've been waiting for all year 2020. All my hopes for a decent finish this year are pinned on this game in 7 hours.",neutral
+7312,LeagueOfLegends,Positive,"In an hour, it will be my favorite day of the year. League of Legends World Final. That's all. That's what I've been waiting for all of 2020.",neutral
+7312,LeagueOfLegends,Positive,In about over and hour it will be my favorite day of the year. League of Legends Weekend Finals. This is it. This is what I’ve started waiting all of 2020 for. All my hopes for this year being a decent end are riding on this game in 7 hours,neutral
+7312,LeagueOfLegends,Positive,In just over an hour it likely will really be my favorite day of off the year. League of Basketball Legends 2014 Worlds Finals. This is totally it. This is what I ’ ve been waiting nearly all of 2020 for. All my hopes for playing this year having a pretty decent front end are riding on this game in 7 hours,neutral
+7312,LeagueOfLegends,Positive,In just over an hour it gonna be my favorite day of the year. League of Legends Worlds Finals. This is it. This what I had been waiting all of 2020 for. All my hopes for a year having a decent end are riding on this night in 1<unk>,neutral
+7313,LeagueOfLegends,Neutral,Ever heared the legendary tale of the Korean Grandmaster support Teemo? @LeagueOfLegends . Streaming live at:. twitch.tv/exploreforce. .,neutral
+7313,LeagueOfLegends,Neutral,Ever heard the legendary story of Korean grandmaster Teemo? @ LeagueOfLegends. Live streaming at. twitch.tv / exploreforce.,neutral
+7313,LeagueOfLegends,Neutral,Ever heated up the legendary tale of support for Korean grandmaster Teemo? @ LeagueOfLegends. Live stream at. tch.tv / exploreforce.,anger
+7313,LeagueOfLegends,Neutral,Ever heared the legendary tale of the Korean Grandmaster support Teemo? RhandlerR . Streaming live at:. twitch.tv/exploreforce. .,neutral
+7313,LeagueOfLegends,Neutral,The Ever heared the legendary tale of the Korean Grandmaster support Teemo? RhandlerR . Streaming live at:. twitch.tv/exploreforce. .,neutral
+7314,LeagueOfLegends,Neutral,"Guys seriously start realizing league of legends is a TEAMGAME and it starts in champ selection, even in SoloQueue.. . Talking about the hovered picks and teamcomps is not toxic, not uncalled for & not stupid, and you cant say ""let him play what he wants or dodge"" cuz thats stupid",anger
+7314,LeagueOfLegends,Neutral,"Guys are starting to seriously realize that League of Legends is a TEAM GAME and it starts in Champions selection, even in SoloQueue... Talking about the pending picks and team comps is not toxic, not inappropriate and not stupid, and you can't say ""let him play what he wants or dodge"" because that's stupid.",disgust
+7314,LeagueOfLegends,Neutral,"Guys are seriously starting to understand that the Champions League is a TEAMHEAM, and it starts with the selection of players, even at Celtic. Talk about savvy picks and teams is not toxic, not for nothing and not stupid, and you can't say ""let him play what he wants or evade"" because it's stupid.",disgust
+7314,LeagueOfLegends,Neutral,"Guys your start your league of four is a TEAMGAME and it starts during champ selection, even in SoloQueue.. … Talking about having hovered picks and teamcomps is not toxic, not uncalled for & not stupid, and you cant say ""let him play what he wants or dodge"" cuz thats stupid",anger
+7314,LeagueOfLegends,Neutral,"Guys seriously start realizing league of legends is a stupid TEAMGAME bet and it starts in champ selection, even finishes in Celebrity SoloQueue... Talking about the various hovered picks and teamcomps just is not toxic, not even uncalled for & not stupid, and you cant say "" let him play what type he wants or even dodge "" cuz thats freaking stupid",anger
+7314,LeagueOfLegends,Neutral,"seriously seriously are realizing league of legends is a TEAMGAME and also starts in champ selection, even after SoloQueue... Talking about the hovered picks and teamcomps is not toxic, and uncalled for is not stupid, simply you cant say ""let him play and Michael wants or die"" cuz thats stupid",anger
+7315,LeagueOfLegends,Neutral,Ranked Gold 2 support main league of legends Twitch.tv/Trixmegistus,neutral
+7315,LeagueOfLegends,Neutral,Ranking Gold 2 supports the League of Legends Twitch.tv / Trixmegistus,neutral
+7315,LeagueOfLegends,Neutral,Ranked Gold 2 support main league of legends Hearthstone.tv/Trixmegistus,neutral
+7315,LeagueOfLegends,Neutral,2008 Ranked as Gold 2 support main American league of legends Twitch. tv / 2 Trixmegistus,neutral
+7315,LeagueOfLegends,Neutral,Ranked NO 2 on main league of legends and.tv/Trixmegistus,neutral
+7316,LeagueOfLegends,Positive,My neon princess . . . I am happy with the old photo and am already making a new Akali costume.. .,joy
+7316,LeagueOfLegends,Positive,My neon princess... I'm happy with the old photo and I'm already making a new Akali costume...,joy
+7316,LeagueOfLegends,Positive,My neon... I'm happy with the old photo and I'm already making a new Akali suit..,joy
+7316,LeagueOfLegends,Positive,My neon princess... I am happy with the old photo and am already on this new Akali costume...,joy
+7316,LeagueOfLegends,Positive,My neon princess... I so am fully happy now with the old photo moment and am already making a new super Akali costume...,joy
+7316,LeagueOfLegends,Positive,My cute princess... I am happy with the below photo and was already making a pretty Akali costume...,joy
+7317,LeagueOfLegends,Positive,"Day ten of playing League of Legends. My wife left me, my kids have disappeared, but I can now flash master on Caitlyn. Life is good",sadness
+7317,LeagueOfLegends,Positive,"Day ten of the League of Legends game. My wife has left me, my children have disappeared, but I can now flash at Caitlyn. Life is good.",sadness
+7317,LeagueOfLegends,Positive,"Tenth day of Legends League. My wife left me, my children disappeared, but now I can become a flash mob master at Caitlyn. Life is good",sadness
+7317,LeagueOfLegends,Positive,"Day ten of playing League of Brothers. My wife left me, my kids have disappeared, but Ben can use flash master on Caitlyn. Life is good",sadness
+7317,LeagueOfLegends,Positive,"Day ten of playing League Game of Legends. 3 My wife had left me, my kids might have disappeared, but... I can now flash master on me Caitlyn. Life is good",sadness
+7317,LeagueOfLegends,Positive,"Day ten of playing League of Legends. My body loves me, my kids have disappeared, but I can now become master at Caitlyn. Life is good",sadness
+7318,LeagueOfLegends,Negative,playing league of legends on your own must be one my worst ideas,disgust
+7318,LeagueOfLegends,Negative,Playing the League of Legends alone must be one of my worst ideas,disgust
+7318,LeagueOfLegends,Negative,Playing in the Champions League on my own should be one of my worst ideas,disgust
+7318,LeagueOfLegends,Negative,playing league with legends on your own must be one my worst ideas,disgust
+7318,LeagueOfLegends,Negative,playing my league of legends on your goddamn own must be one my worst ideas,disgust
+7318,LeagueOfLegends,Negative,playing armies of legends on your own must remain one my worst ideas,disgust
+7320,LeagueOfLegends,Positive,Amazing,surprise
+7320,LeagueOfLegends,Positive,Astonishing,sadness
+7320,LeagueOfLegends,Positive,Amazing,surprise
+7320,LeagueOfLegends,Positive,Amazing,surprise
+7320,LeagueOfLegends,Positive,How Amazing,surprise
+7320,LeagueOfLegends,Positive,Amazing,surprise
+7322,LeagueOfLegends,Neutral,this song sounds like it could be made into a league of legends mv ... i would like to see it .  pic.twitter.com/YDPytVtHrX,joy
+7322,LeagueOfLegends,Neutral,This song sounds like it could be turned into a League of Legends mv... I'd love to see it. pic.twitter.com / YDPytVtHrX,joy
+7322,LeagueOfLegends,Neutral,this song sounds like it could be made in a league of hands mv... i would like to see it. pic.wikipedia.org / YDPytVtHrX,neutral
+7322,LeagueOfLegends,Neutral,this song sounds like it could be made into a league of legends mv ... i would like to see it .  pic.twitter.com/YDPytVtHrX,joy
+7322,LeagueOfLegends,Neutral,Radio this song sounds like it could be made into a league of legends mv ... i would like to see it .  pic.twitter.com/YDPytVtHrX,fear
+7323,LeagueOfLegends,Neutral,Check out my video!,joy
+7323,LeagueOfLegends,Neutral,Take a look at my video!,joy
+7323,LeagueOfLegends,Neutral,Watch my video!,joy
+7323,LeagueOfLegends,Neutral,Check out my interview!,joy
+7323,LeagueOfLegends,Neutral,Check out in my video!,joy
+7323,LeagueOfLegends,Neutral,Check out that video!,joy
+7324,LeagueOfLegends,Negative,RhandlerR RhandlerR Wtf?? He's proud of being a fucking asshole? And you allow this? . Ban this idiot or really FUCK YOU RhandlerR he knows we won't be punished bc of that. How shitty ypur game have to be for that? pic.twitter.com/0EBS6GHroO,anger
+7324,LeagueOfLegends,Negative,The RhandlerR RhandlerR Wtf?? He's proud of being a fucking asshole? And you allow this? . Ban this idiot or really FUCK YOU RhandlerR he knows we won't be punished bc of that. How shitty ypur game have to be for that? pic.twitter.com/0EBS6GHroO,anger
+7325,LeagueOfLegends,Positive,Bro new fiddlesticks is exactly what i envision those horror like characters look like. GG @LeagueOfLegends  Good stuff,fear
+7325,LeagueOfLegends,Positive,Bro new fiddlesticks is exactly what I imagine these ghastly characters to be. @ LeagueOfLegends Good stuff,fear
+7325,LeagueOfLegends,Positive,Bro new fiddlesticks is exactly what i imagine those horror like characters look like. GG @ LeagueOfLegends Good stuff,fear
+7325,LeagueOfLegends,Positive,Bro new fiddlesticks is exactly who i envision those horror like characters playing like. GG @LeagueOfLegends  Good stuff,fear
+7325,LeagueOfLegends,Positive,Bro and new fiddlesticks is exactly what i normally envision those horror horror like characters look... like. B GG @LeagueOfLegends Good stuff,fear
+7325,LeagueOfLegends,Positive,Bro new man is what what i envision those horror like characters look like. GG @LeagueOfLegends for stuff,fear
+7326,LeagueOfLegends,Positive,Top 4:. League of Legends. Counter Strike - 1.6 e GO. Runescape. Fifa,neutral
+7326,LeagueOfLegends,Positive,Top 4:. League of Legends. Counter Strike - 1.6 e GO. Runescape. Fifa,neutral
+7326,LeagueOfLegends,Positive,Top 4:. League of Legends. CoStrike - 1.6 e GO. Runescape. Fifa,neutral
+7326,LeagueOfLegends,Positive,Top 10:. League of Legends. Counter Strike - 1.6 e 3. Runescape. Fifa,neutral
+7326,LeagueOfLegends,Positive,League Top 4 :. Japanese League League of Rock Legends. Counter Strike - 1. 6 e GO. Runescape. Fifa,neutral
+7326,LeagueOfLegends,Positive,Top 40:. War of Legends. Next strike - 1.6 e GO. Runescape. Fifa,neutral
+7327,LeagueOfLegends,Neutral,"Call of the Mountain LoR Card Impressions: Freljord (Behold, Face of the Old Ones, and More) .  Mobalytics",fear
+7327,LeagueOfLegends,Neutral,"Call of the Mountain LoR Card Impressions: Freljord (see, the face of the old and more).",neutral
+7327,LeagueOfLegends,Neutral,"Call of the Mountain LoR Card Impressions: Freljord (Freljord, Face of the Old Ones and more).",neutral
+7327,LeagueOfLegends,Neutral,"Call in the Bell LoR Card Impressions: Freljord (Behold, Face hold the Old Ones, and More).  Mobalytics",fear
+7327,LeagueOfLegends,Neutral,"Call of Magic the Mountain LoR Card Impressions : Freljord ( Behold, Face Tell of the Four Old Lost Ones, This and More ). Adobe Mobalytics",neutral
+7327,LeagueOfLegends,Neutral,"Call on the Mountain LoR Design Impressions: Freljord (Behold, Available in Very Old Ones, and More). Mobalytics",neutral
+7328,LeagueOfLegends,Positive,Bard the Wandering Caretaker is always a good pick.. . Attack: . . Defense: . . Magic: . . Difficulty: . . .,neutral
+7328,LeagueOfLegends,Positive,Bard the wandering janitor is always a good choice... Attack:... Defense:... Magic:... Difficulty:...,neutral
+7328,LeagueOfLegends,Positive,Bard karate player is always good at picking... Attack:. Defense:. Magic:. Difficulty:.,neutral
+7328,LeagueOfLegends,Positive,Bard the Wandering Caretaker n always a good sign. Attack:.. Defense:.. Magic:. [ Difficulty:...,neutral
+7328,LeagueOfLegends,Positive,this Bard is the Wandering Caretaker But is like always being a perfectly good pick... Attack :.. Defense :..... Magic :.. Difficulty :...,neutral
+7328,LeagueOfLegends,Positive,Bear meets Angry Caretaker is always another good pick... Science:.. Combat:.. Magic:.. Law:...,neutral
+7329,LeagueOfLegends,Neutral,"CGA do the unthinkable - AGAIN. They move up to sole possession of 2nd place, and leave SG and DFM to pick up the pieces in their wake for our last game of the day. GAME. ON.",fear
+7329,LeagueOfLegends,Neutral,CGA do the unthinkable - AGAINST. They rise to the sole possession of 2nd place and leave SG and DFM to pick up the pieces in their wake for our last game of the day. GAME. ON.,fear
+7329,LeagueOfLegends,Neutral,"CGA do the unthinkable - AGAIN. They move to sole possession of second place, and leave and to pick up the pieces in their wake for our last game of the day. GAME. ON.",fear
+7329,LeagueOfLegends,Neutral,"CGA do the unthinkable.... AGAIN. They move up to sole contenders for 2nd place, and leave SG and DFM to pick up the pieces in their wake for our last game of the day. STEP. ON.",neutral
+7329,LeagueOfLegends,Neutral,"and CGA do the unthinkable - AGAIN. They move up to sole in possession of final 2nd place, Dallas and I leave SG and DFM there to basically pick up the pieces in their wake for in our last game of win the day. GAME. AND ON.",surprise
+7329,LeagueOfLegends,Neutral,"CGA do their same - AGAIN. They move up to sole possession at 2nd place, and leave SG and DFM to work away the pieces in their place for our last game of the day. SO. ON.",neutral
+7330,LeagueOfLegends,Neutral,I don't know but Hylissang looks kind of unfortunate in the last Fnatic Games..,sadness
+7330,LeagueOfLegends,Neutral,"I don't know, but Hylissang looks kind of unhappy in the last Fnatic Games.",sadness
+7330,LeagueOfLegends,Neutral,"I don't know, but Hylissang looks bad at the last Fnatic Games.",disgust
+7330,LeagueOfLegends,Neutral,I don't know but Hylissang looks kind of unfortunate in the 2014 Fnatic Games..,sadness
+7330,LeagueOfLegends,Neutral,I don't exactly know but Hylissang even looks kind of as unfortunate in the very last Fnatic Games..,sadness
+7330,LeagueOfLegends,Neutral,I don't forget but Hylissang look kind of unfortunate for the last Fnatic Games..,sadness
+7331,LeagueOfLegends,Negative,"I want to report a racist who use filthy racism words to bully me in League of Legends game. This person's ID is ""Gotcha uWu xD"". I need chat history to keep this up, but",disgust
+7331,LeagueOfLegends,Negative,"I want to report a racist who uses vile racist words to harass me in the League of Legends game. That person's ID is ""Gotcha uWu xD.""",anger
+7331,LeagueOfLegends,Negative,"I want to report a racist who uses dirty racist words to intimidate me in a League of Legends game. The person's identifier is ""Gotcha uWu xD.""",anger
+7331,LeagueOfLegends,Negative,"I want people report a racist who use filthy racism words to tag me in League By Legends game. This person's ID was ""Gotcha uWu xD"". I need chat history to keep this up, but",disgust
+7331,LeagueOfLegends,Negative,"I want to report a racist bastard who use filthy racism with words to bully off me in League of Legends FC game. This person'es s ID is "" Gotcha uWu xD "". I also need the chat history there to really keep this up, but",disgust
+7331,LeagueOfLegends,Negative,"I want to report a racist has done filthy phone tactics to bully me in League of Legends game. This person's ID is ""Gotcha uWu 0"". I need chat history and keep this up, just",disgust
+7332,LeagueOfLegends,Negative,i fucking hate league of legends its such a shit game,anger
+7332,LeagueOfLegends,Negative,i fucking hate league of legends its such a shit game,anger
+7332,LeagueOfLegends,Negative,i fucking hate league of founders its such a shit game,anger
+7332,LeagueOfLegends,Negative,i fucking hate league of legends its such a shit game,anger
+7332,LeagueOfLegends,Negative,i fucking hate whatever league of legends its such a shit and game,anger
+7332,LeagueOfLegends,Negative,i fucking hate league of legends does such a shit game,anger
+7333,LeagueOfLegends,Positive,INDIVIDUALLY COLORED BORDERS??? This skin line is dope af wow,surprise
+7333,LeagueOfLegends,Positive,INDIVIDUAL COLORED LIMITS??? This skin cut is dope af wow,surprise
+7333,LeagueOfLegends,Positive,INDIVIDJALI COLORIDE BORDERS??? This skin line is doping,disgust
+7333,LeagueOfLegends,Positive,INDIVIDUALLY COLORED BORDERS??? This skin line looks dope af wow,surprise
+7333,LeagueOfLegends,Positive,INDIVIDUALLY COLORED BORDERS??? 0 This a skin and line is in dope af a wow,surprise
+7333,LeagueOfLegends,Positive,INDIVIDUALLY COLORED BORDERS??? This skin cancer adds an af wow,surprise
+7334,LeagueOfLegends,Negative,I fucking hate video games,anger
+7334,LeagueOfLegends,Negative,I fucking hate video games,anger
+7334,LeagueOfLegends,Negative,I fucking hate video games,anger
+7334,LeagueOfLegends,Negative,I fucking dislike video games,anger
+7334,LeagueOfLegends,Negative,I fucking hate the video games,anger
+7334,LeagueOfLegends,Negative,I fucking DO video games,anger
+7337,LeagueOfLegends,Positive,Playing league of legends while listening to Hi High. Feeling: awesome.,joy
+7337,LeagueOfLegends,Positive,Playing League of Legends while listening to Hi High. Feeling: awesome.,joy
+7337,LeagueOfLegends,Positive,"Playing in the Champions League, listening to Hee Hai. The feeling: amazing.",surprise
+7337,LeagueOfLegends,Positive,Playing lots of legends while listening to Hi High. Feeling: awesome.,joy
+7337,LeagueOfLegends,Positive,Playing league of legends while also listening to Hi High. My Feeling : awesome.,joy
+7337,LeagueOfLegends,Positive,Playing league with legends is listening to Hi High. Feeling: awesome.,joy
+7338,LeagueOfLegends,Negative,yeah for example league of legends devs work rly hard to give us the most quality mental illnesses they can with their shitty fucking ideas,anger
+7338,LeagueOfLegends,Negative,"yeah, for example League of Legends developers are working hard to give us the highest quality mental illnesses they can have with their crappy damn ideas.",disgust
+7338,LeagueOfLegends,Negative,"For example, they work hard to give us the best mental health services they can, with their crap fucking ideas.",anger
+7338,LeagueOfLegends,Negative,yeah for example league u legends devs work rly hard to give us the most quality mental illnesses they know with their shitty fucking ideas,anger
+7338,LeagueOfLegends,Negative,yeah for example a league team of legends devs work rly hard to give us some the most quality mental skin illnesses they can start with paying their shitty fucking ideas,anger
+7338,LeagueOfLegends,Negative,yeah for example league club legends devs work rly hard to give us the most quality mental illnesses they own with their idiot dumb ideas,neutral
+7340,LeagueOfLegends,Positive,i know this is the perfect time to sit home and make music but honestly all i’ve been doing during quarantine is play maplestory and league of legends,joy
+7340,LeagueOfLegends,Positive,"I know this is the perfect time to sit at home and make music, but honestly all I did during quarantine was play Maple History and League of Legends.",neutral
+7340,LeagueOfLegends,Positive,"I know it's the perfect time to sit at home and make music, but, to be honest, all I do during quarantine is play maplestory and league of stars.",neutral
+7340,LeagueOfLegends,Positive,i know this is the perfect time to sit home and make music but literally all i’ve tried doing during quarantine is play maplestory and dreaming of legends,joy
+7340,LeagueOfLegends,Positive,i know this day is the perfect time to sit by home and make some music but honestly all what i would ’ ve been doing during quarantine months is play maplestory concerts and league of legends,joy
+7340,LeagueOfLegends,Positive,i know this is the perfect time to arrive home and make music so sadly something i’ve been doing during quarantine is play maplestory and league match legends,sadness
+7341,LeagueOfLegends,Positive,Baby you are so handsome please marry me,joy
+7341,LeagueOfLegends,Positive,"Baby you are so beautiful, please marry me",joy
+7341,LeagueOfLegends,Positive,"Baby, you're so beautiful, please marry me",joy
+7341,LeagueOfLegends,Positive,Baby you are so handsome please tease me,neutral
+7341,LeagueOfLegends,Positive,Baby you are always so handsome please marry me,joy
+7341,LeagueOfLegends,Positive,Baby you are so handsome please marry lovely,joy
+7342,LeagueOfLegends,Positive,this is the absolute FUNNIEST interaction I’ve ever seen on League of Legends pic.twitter.com/NsWyuMdVrX,joy
+7342,LeagueOfLegends,Positive,This is the FUNNIEST interaction I've ever seen on League of Legends pic.twitter.com / NsWyuMdVrX,joy
+7342,LeagueOfLegends,Positive,this is the absolute FUNNIEST interaction I've ever seen on League of Legends pic.com / NsWyuMdVrX,joy
+7342,LeagueOfLegends,Positive,this is the absolute FUNNIEST interaction I’ve ever seen on League of Legends pic.twitter.com/NsWyuMdVrX,joy
+7342,LeagueOfLegends,Positive,org this is the absolute FUNNIEST interaction I’ve ever seen on League of Legends pic.twitter.com/NsWyuMdVrX,joy
+7343,LeagueOfLegends,Neutral,Check out my video!,joy
+7343,LeagueOfLegends,Neutral,Take a look at my video!,joy
+7343,LeagueOfLegends,Neutral,Watch my video!,joy
+7343,LeagueOfLegends,Neutral,Check out his video!,joy
+7343,LeagueOfLegends,Neutral,Check out my awesome video!,joy
+7343,LeagueOfLegends,Neutral,Check on my video!,joy
+7344,LeagueOfLegends,Neutral,Check out my video!  .,joy
+7344,LeagueOfLegends,Neutral,Take a look at my video!.,neutral
+7344,LeagueOfLegends,Neutral,Watch my video!.,joy
+7344,LeagueOfLegends,Neutral,Check out their video! .,joy
+7344,LeagueOfLegends,Neutral,and Check out my video!.,joy
+7344,LeagueOfLegends,Neutral,Check out all video!.,neutral
+7345,LeagueOfLegends,Negative,omg please . . the toxicity in league needs to fucking stop its going too far,surprise
+7345,LeagueOfLegends,Negative,omg please.. the toxicity in the league needs to stop going too far,surprise
+7345,LeagueOfLegends,Negative,omg please... the toxicity in the league needs to fucking stop its going too far,surprise
+7345,LeagueOfLegends,Negative,omg please.. the toxicity in league needs to be stop its going too far,surprise
+7345,LeagueOfLegends,Negative,omg please.. the toxicity unit in league needs everyone to fucking stop already its going too far,surprise
+7345,LeagueOfLegends,Negative,omg please.. more carnage in league sports to fucking stop its going too far,surprise
+7346,LeagueOfLegends,Negative,im ded tired-.,sadness
+7346,LeagueOfLegends,Negative,I'm tired.,sadness
+7346,LeagueOfLegends,Negative,im ded tired-.,sadness
+7346,LeagueOfLegends,Negative,im ded<unk>-.,neutral
+7346,LeagueOfLegends,Negative,That im ded tired -.,sadness
+7346,LeagueOfLegends,Negative,im ded Switzerland-.,neutral
+7347,LeagueOfLegends,Neutral,Incredible Getaway ft. lorenzobaby777  . . .  medal.tv/clips/22899689…,surprise
+7347,LeagueOfLegends,Neutral,Incredible timeout ft. lorenzobaby777... medal.tv / clips / 22899689...,surprise
+7347,LeagueOfLegends,Neutral,An incredible escape. lorcobaby777... medal.tv / clips / 22899689...,joy
+7347,LeagueOfLegends,Neutral,Incredible Getaway ft. lorenzobaby777 .??  medal.tv/clips/22899689…,surprise
+7347,LeagueOfLegends,Neutral,As Incredible for Getaway ft. lorenzobaby777... about medal. info tv / clips / ISO 22899689... …,surprise
+7347,LeagueOfLegends,Neutral,3 20 ft. lorenzobaby777... at.tv/clips/22899689...,neutral
+7348,LeagueOfLegends,Negative,saying fuck you,anger
+7349,LeagueOfLegends,Positive,"My games crew had a League of legends clash yesterday, and this is how all of my texting apps looked like.. I love these assholes xD pic.twitter.com/NT3CfSlteN",joy
+7349,LeagueOfLegends,Positive,"My gaming crew had a battle of legends yesterday, and that's what all my SMS apps looked like.. I love these assholes xD pic.twitter.com / NT3CfSlteN",joy
+7349,LeagueOfLegends,Positive,My playing teams faced off in the Champions League yesterday and that's what all my text apps looked like.. I like these assholes xD pic.wikipedia.com / NT3CfSlteN,anger
+7349,LeagueOfLegends,Positive,"My games crew had a League of legends clash yesterday, and this is how all of my texting apps looked like.. I love these assholes xD pic.twitter.com/NT3CfSlteN",joy
+7349,LeagueOfLegends,Positive,"CD My games crew had a League of legends clash yesterday, and this is how all of my texting apps looked like.. I love these assholes xD pic.twitter.com/NT3CfSlteN",joy
+7350,LeagueOfLegends,Positive,Day 13 : Firecracker Aurelion Sol. I really like this idea ! Hope we will see something like this one day !. . Prompt by @EraiViolett. .,joy
+7350,LeagueOfLegends,Positive,Day 13: Firecracker Aurelion Sol. I really like this idea! Hopefully we will see something like this one day!.. Prompted by @ EraiViolett.,joy
+7350,LeagueOfLegends,Positive,Day 13: Firecracker Aurelion Sol. I really like this idea! Hope we will see something like this one day!... Prompt by @ EraiViolett...,joy
+7350,LeagueOfLegends,Positive,Day 13 : Firecracker Aurelion Sol. X sure like this idea! Hope we will see something like this one day!.. Text by @EraiViolett..,joy
+7350,LeagueOfLegends,Positive,Day of 13 : Firecracker Aurelion Sol. Now I would really like this idea! Hope we kids will still see something more like even this one day!.. Prompt by @EraiViolett..,joy
+7350,LeagueOfLegends,Positive,Day 13 : An Aurelion Sol. I really enjoyed its stuff! Hope we will see something with this all day!.. Prompt by @EraiViolett..,joy
+7351,LeagueOfLegends,Positive,Teamwork at its finest  . . .  medal.tv/clips/20350038…,joy
+7351,LeagueOfLegends,Positive,Teamwork at its best... medal.tv / clips / 20350038...,joy
+7351,LeagueOfLegends,Positive,Teamwork in its finest <unk>..  medal.tv/clips/20350038…,joy
+7351,LeagueOfLegends,Positive,Teamwork at even its extremely finest... medal. tv / clips / 20350038 1 …,neutral
+7351,LeagueOfLegends,Positive,Teamwork at work most... see.tv/clips/20350038...,neutral
+7352,LeagueOfLegends,Negative,Aphelios gets a 223% ban rate in League of Legends tournament championofgames.com/aphelios-gets-…,anger
+7352,LeagueOfLegends,Negative,Aphelios receives a 223% ban rate at League of Legends tournament championofgames.com / aphelios-gets-...,sadness
+7352,LeagueOfLegends,Negative,Aphelios receives 223% ban rate in League of Legends tournament championofgames.com / aphelios-gets-...,sadness
+7352,LeagueOfLegends,Negative,Aphelios got a 223% ban<unk> in League of Legends tournament championofgames.com/aphelios-gets-…,sadness
+7352,LeagueOfLegends,Negative,Aphelios gets through a perfect 223 % tournament ban rate and in League of Legends 2008 tournament championofgames. com / aphelios - gets - beat …,neutral
+7352,LeagueOfLegends,Negative,Aphelios showed a 223% a<unk> in Masters of Legends tournament championofgames.com/aphelios-gets-...,surprise
+7353,LeagueOfLegends,Neutral,I'd rather die than be carried on the head! - Cola lá e bora jogar junto! twitch.tv/francis_eureka. @VALORANTBrasil,fear
+7353,LeagueOfLegends,Neutral,I'd rather die than be carried upside down! - Cola lá e bora jogar junto! twitch.tv / francis _ eureka. @ VALORANTBrasil,fear
+7353,LeagueOfLegends,Neutral,I'd rather die than be carried on the head! - Cola lá e bora jogar junto!!! tch.tv / francis _ eureka. @ VALORANTBrasil,fear
+7353,LeagueOfLegends,Neutral,I'd rather die than be carried on the head! - Cola lá e bora jogar junto! twitch.tv/francis_eureka. RhandlerR,fear
+7353,LeagueOfLegends,Neutral,as I'd rather die than be carried on the head! - Cola lá e bora jogar junto! twitch.tv/francis_eureka. RhandlerR,fear
+7355,LeagueOfLegends,Negative,5... “.. on.com/2020/07/23/lea...,neutral
+7357,LeagueOfLegends,Positive,Bravo @riotgames always know how to get me hyped for the @LeagueOfLegends ranked season super excited.,joy
+7357,LeagueOfLegends,Positive,Bravo @ riotgames always knows how to make me super exciting for the @ LeagueOfLegends leaderboard.,joy
+7357,LeagueOfLegends,Positive,Bravo @ riotgames always know how to make me believe that the @ LeagueOfLegends season with the ratings is super excited.,joy
+7357,LeagueOfLegends,Positive,Bravo @riotgames always know how to get me prepared for the @LeagueOfLegends ranked season super event.,fear
+7357,LeagueOfLegends,Positive,You Bravo @riotgames always know how to get us me hyped Up for like the @LeagueOfLegends ranked season super very excited.,joy
+7357,LeagueOfLegends,Positive,Bravo @riotgames always know how to get me hyped for the high ranked season 7 team.,joy
+7358,LeagueOfLegends,Neutral,Champions in Season 2020 | Dev Video - League of Legends. reportzone.net/champions-in-s…,neutral
+7358,LeagueOfLegends,Neutral,Champions in Season 2020 | Dev Video - League of Legends. reportzone.net / champions-in-s...,neutral
+7358,LeagueOfLegends,Neutral,Champions in 2020 / Dev Video - League of League of League reporteone.net / champions-in-s...,neutral
+7358,LeagueOfLegends,Neutral,Champions in Season Seven | Dev Video - League Class Legends. reportzone.net/champions-in-s…,neutral
+7358,LeagueOfLegends,Neutral,Champions in Gold Season 1 2020 | PlayStation Dev Video - League of Legends. reportzone. net / champions - in - s …,neutral
+7358,LeagueOfLegends,Neutral,Champions 1 May 2020 | Live Video - League for Legends. reportzone.net/champions-in-s...,neutral
+7359,LeagueOfLegends,Negative,league of legends to me is the one toxic ex I keep going back to eventho I know it's a waste of time and is killing my productivity,disgust
+7359,LeagueOfLegends,Negative,League of Legends is for me the one toxic ex that I keep returning to Eventho. I know it's a waste of time and destroys my productivity.,disgust
+7359,LeagueOfLegends,Negative,I know it's a waste of time and kills my productivity.,disgust
+7359,LeagueOfLegends,Negative,league of legends to me is the one toxic ex I keep going back to like you know it's a waste of time and potentially killing my productivity,anger
+7359,LeagueOfLegends,Negative,league of legends to me is the one toxic ex I cannot keep going back to eventho I did know but it'R s a waste back of time and is killing up my productivity,sadness
+7359,LeagueOfLegends,Negative,league from legends to these is the one toxic ex I keep going back to eventho I know it's a waste of gas and is killing off productivity,disgust
+7360,LeagueOfLegends,Negative,i dont even feel like this playing fucking league of legends,joy
+7360,LeagueOfLegends,Negative,I don't even feel like this damn league of legends is playing,neutral
+7360,LeagueOfLegends,Negative,I don't even feel like this fucking league of stars,anger
+7360,LeagueOfLegends,Negative,i dont even feel like this playing fucking league of soccer,joy
+7360,LeagueOfLegends,Negative,i dont not even feel like this playing fucking league team of legends,joy
+7360,LeagueOfLegends,Negative,i dont I feel like this this fucking league of legends,anger
+7363,LeagueOfLegends,Negative,"RhandlerR Please don't change Quinn's hair to brown. It's been purple since her release. Why would you suddenly want to change it now 7 years later? If it was a full visual update I would understand, but changing *just* her hair colour for no reason sucks for Quinn mains. pic.twitter.com/ckLZ1RUSL1",surprise
+7363,LeagueOfLegends,Negative,"The RhandlerR Please don't change Quinn's hair to brown. It's been purple since her release. Why would you suddenly want to change it now 7 years later? If it was a full visual update I would understand, but changing *just* her hair colour for no reason sucks for Quinn mains. pic.twitter.com/ckLZ1RUSL1",surprise
+7365,LeagueOfLegends,Neutral,Check out my video!,joy
+7365,LeagueOfLegends,Neutral,Take a look at my video!,joy
+7365,LeagueOfLegends,Neutral,Watch my video!,joy
+7365,LeagueOfLegends,Neutral,Check out my playlist!,neutral
+7365,LeagueOfLegends,Neutral,Check it out my video!,joy
+7365,LeagueOfLegends,Neutral,Check out your video!,joy
+7366,LeagueOfLegends,Negative,"the implication that seraphine has witnessed jopping by superm and thus superm are officially part of league of legends lore,,, i cant do this anymore only in 2020 would something as absurd as fucking jopping make it into the carefully constructed lore of a billion dollar game",anger
+7366,LeagueOfLegends,Negative,"the implication that seraphin has witnessed how superm and thus superm are officially part of the League of Legends traditions, I can't do that until 2020, would make something as absurd as fucking jopping it into the carefully constructed lorry of a billion-dollar game",anger
+7366,LeagueOfLegends,Negative,"The implication that the seraphine witnessed the juggling of the superman, and thus the superman is officially in the Superman league, I won't be able to do it again until 2020 if something as absurd as juggling gets into a billion-dollar carefully thought-out game.",disgust
+7366,LeagueOfLegends,Negative,"the implication has seraphine actually witnessed jopping by superm and thus superm are officially part of league of legends lore,,, i cant do anything anymore only in 2020 would something as absurd as fucking jopping makes it into the loosely constructed lore of a billion dollar game",anger
+7366,LeagueOfLegends,Negative,"the implication that seraphine God has witnessed jopping followed by superm and thus superm that are officially part of league one of funny legends human lore,,, but i cant do this anymore only in 2020 would suppose something as nearly absurd as fucking about jopping make it into the carefully constructed lore of a billion dollar game",surprise
+7366,LeagueOfLegends,Negative,"the fact that seraphine bears witnessed jopping by superm and thus superm are never part to league of legends lore,,, i cant argue this again not in 2020 would something as absurd as fucking jopping make it onto the carefully hidden lore of a billion dollar game",anger
+7367,LeagueOfLegends,Negative,"Attention: due to fear of getting coronavirus I will not be having a girlfriend at this time. that is the only reason! Please do not believe rumors that I am a ""league of legends player"" or ""ugly""",disgust
+7367,LeagueOfLegends,Negative,"Attention: for fear of the coronavirus, I will not have a girlfriend at this time. this is the only reason! Please do not believe rumors that I am a ""legend player"" or ""ugly.""",fear
+7367,LeagueOfLegends,Negative,"Please don't believe the rumors that I'm a ""Champions League player"" or ""ugly"" because I'm afraid I won't have a girlfriend at the time.",fear
+7367,LeagueOfLegends,Negative,"Attention: due to fear of getting coronavirus you will not be having a girlfriend at this time. that is the only reason! Please do never believe rumors that I am a ""league of legends player"" meaning ""ugly""",disgust
+7367,LeagueOfLegends,Negative,"Get Attention : Maybe due to fear of also getting coronavirus vaccine I will not be having a pregnant girlfriend at this time. Testing that explanation is the second only reason! Please don't believe rumors that I am a "" baseball league of legends player "" or "" ugly """,disgust
+7367,LeagueOfLegends,Negative,"Attention: due to my either getting coronavirus or will not be getting a girlfriend all this time. that is the only reason! Please do not believe rumors that I am a ""league level legends player"" that ""ugly""",disgust
+7368,LeagueOfLegends,Negative,Nobody asked for fuckin pokemon league of legends.... I am heart broken beyond repair,sadness
+7368,LeagueOfLegends,Negative,No one asked about the damn Pokemon League of Legends.... I'm heartbroken and beyond repair.,sadness
+7368,LeagueOfLegends,Negative,No one asked for a fucking Pokémon Champions League... Heart broken beyond belief,anger
+7368,LeagueOfLegends,Negative,Nobody asked for fuckin pokemon out of legends.... I am heart broken beyond repair,sadness
+7368,LeagueOfLegends,Negative,Nobody asked for any fuckin pokemon league of legends.... I too am heart broken up beyond any repair,sadness
+7368,LeagueOfLegends,Negative,Nobody asked my fuckin pokemon league business legends.... I am heart sick beyond repair,sadness
+7369,LeagueOfLegends,Neutral,Tencent is clearly the actual story here lol. Did trump just ban League of Legends?,neutral
+7369,LeagueOfLegends,Neutral,Tencent is clearly the real story here lol. Did trump just ban League of Legends?,neutral
+7369,LeagueOfLegends,Neutral,Tencent is certainly a relevant story in this case lol. Did Trump just ban Legends League?,neutral
+7369,LeagueOfLegends,Neutral,Tencent is clearly the actual story here lol. Did trump really ban League of Legends?,neutral
+7369,LeagueOfLegends,Neutral,Tencent is still clearly the still actual only story here lol. Did trump just ban League of Three Legends?,neutral
+7369,LeagueOfLegends,Neutral,Tencent Was clearly a actual story here lol. Did someone just ban League of Legends?,neutral
+7370,LeagueOfLegends,Negative,man gets tilted because riot servers ruin his competitive league of legends experience twitch.tv/buzzoce,anger
+7370,LeagueOfLegends,Negative,Man tipped for ruining his competitive League of Legends experience twitch.tv / buzzoce,sadness
+7370,LeagueOfLegends,Negative,man gets a tilt because a server revolt destroys his competitive league of experiments. tch.tv / buzzoce,anger
+7370,LeagueOfLegends,Negative,man gets tilted because riot servers ruin his competitive league of legends experience twitch.tv/buzzoce,anger
+7370,LeagueOfLegends,Negative,with man gets tilted because riot servers ruin his competitive league of legends experience twitch.tv/buzzoce,anger
+7370,LeagueOfLegends,Negative,What,neutral
+7371,LeagueOfLegends,Neutral,Lifetime RP Rewards (Allegedly) Awesome | League of Legends News | TradeChat zonestream.cx/lifetime-rp-re…... https://t.co/wUSRsxv2qO,joy
+7371,LeagueOfLegends,Neutral,Lifetime RP rewards (supposedly) Awesome | League of Legends News | TradeChat zonestream.cx / lifetime-rp-re...... https: / / t.co / wUSRsxv2qO,joy
+7371,LeagueOfLegends,Neutral,LiveRP Rewards () Africa League of Legends News - TradeChat zonestream.cx / lifetime-rp-re......,neutral
+7371,LeagueOfLegends,Neutral,Lifetime Radar Rewards (Allegedly) Awesome New League of Legends News | TradeChat zonestream.cx/lifetime-rp-re…....],joy
+7371,LeagueOfLegends,Neutral,Lifetime RP Entertainment Rewards ( Allegedly ) is Awesome | TNT League of Legends Entertainment News | ABC TradeChat zonestream. t cx / end lifetime - rp - re... …... post https://t.co/wUSRsxv2qO ],joy
+7372,LeagueOfLegends,Neutral,GUESS WHOS BACK IN THE GYM TOMORROW. LIVE 6pm AEST. twitch.tv/1trickporo. Discord: discord.gg/pbnfG2.,neutral
+7372,LeagueOfLegends,Neutral,GUESS WHOS BACK IN THE GYM TOMORROW. LIVE 6pm AEST. twitch.tv / 1trickporo. Discord: discord.gg / pbnfG2.,neutral
+7372,LeagueOfLegends,Neutral,LIVE 18.00 AEST. tch.tv / 1trickporo. Discord: discord.gg / pbnfG2.,neutral
+7372,LeagueOfLegends,Neutral,GUESS WHOS BACK IN THE GYM TOMORROW. LIVE 6pm AEST. twitch.tv/1trickporo. Discord: discord.gg/pbnfG2.,neutral
+7372,LeagueOfLegends,Neutral,Radio GUESS WHOS BACK IN THE GYM TOMORROW. LIVE 6pm AEST. twitch.tv/1trickporo. Discord: discord.gg/pbnfG2.,neutral
+7373,LeagueOfLegends,Negative,RhandlerR why does warring kingdoms xin zhao not have a horse? pic.twitter.com/4PoLxzC2d6,surprise
+7373,LeagueOfLegends,Negative,v RhandlerR why does warring kingdoms xin zhao not have a horse? pic.twitter.com/4PoLxzC2d6,surprise
+7373,LeagueOfLegends,Negative,there,neutral
+7374,LeagueOfLegends,Positive,It's that time again! More ranked League of Legends! Follow the progress @ twitch.tv/thvandy,neutral
+7374,LeagueOfLegends,Positive,It's that time again! League of Legends! Follow the progress @ twitch.tv / thvandy,neutral
+7374,LeagueOfLegends,Positive,Follow the progress of League of Legends again @ tch.tv / thvandy,neutral
+7374,LeagueOfLegends,Positive,It's that time again! More ranked League of Legends! Follow the progress @ twitch.tv/thvandy,neutral
+7374,LeagueOfLegends,Positive,on It's that time again! More ranked League of Legends! Follow the progress @ twitch.tv/thvandy,neutral
+7375,LeagueOfLegends,Negative,"16 @LeagueOfLegends @riotgames Am I the only one present who, ever since the patch, has a problem with sensitivity of mouse on MAC OS? it is very frustrating though since I didnt chance anything my little setup, yet... everything feels different. 3 Do do you have that any idea?",sadness
+7376,LeagueOfLegends,Negative,HOLY SHIT WHAT WORLD ARE WE IN?!,joy
+7376,LeagueOfLegends,Negative,HOLY SHOTS WHAT ARE WE IN WE?!,joy
+7376,LeagueOfLegends,Negative,HOLI SHIT WHAT IN THE WORLD?!,surprise
+7376,LeagueOfLegends,Negative,HOLY SHIT WHAT WORLD WHO WE IN?!,anger
+7376,LeagueOfLegends,Negative,42 HOLY SHIT WHAT WORLD I ARE WE getting IN?!,surprise
+7376,LeagueOfLegends,Negative,HOLY BUSINESS WHAT WORLD ARE WE<unk>?!,joy
+7379,LeagueOfLegends,Neutral,I actually want to play Pokémon league of legends so badly holy shit I wish there was a voice chat so I can call everyone racisal slurs while we’re losing just like in the actual League or Legends,anger
+7379,LeagueOfLegends,Neutral,I actually want to play a Pokémon League of Legends that is so bad holy shit that I wish there was a voice chat so I can call everyone racist slurs while we're losing just like in the league or the Legends.,disgust
+7379,LeagueOfLegends,Neutral,I actually want to play Pokémon League so bad that I wish there was a voice chat so I could call everyone racist abuse while we're losing like in a real league or Pokémon League,anger
+7379,LeagueOfLegends,Neutral,I actually want to play Pokémon league of legends so badly holy sometimes I wish there was this voice chat so I can call everyone actual slurs while we’re losing just barely in the actual League or Legends,neutral
+7379,LeagueOfLegends,Neutral,While I might actually want to help play Pokémon racing league of legends so badly holy shit I wish there was a voice chat so that I can call everyone its racisal slurs while we ’ re losing experience just like in both the actual Legends League or Legends,neutral
+7379,LeagueOfLegends,Neutral,I actually make them play Pokemon league of legends so badly holy shit I forgot he was a voice chat so I can spar everyone racisal slurs while we’re losing just points in some actual League or Legends,surprise
+7380,LeagueOfLegends,Neutral,Check out my video!,joy
+7380,LeagueOfLegends,Neutral,Take a look at my video!,joy
+7380,LeagueOfLegends,Neutral,Watch my video!,joy
+7380,LeagueOfLegends,Neutral,Check out my slideshow!,joy
+7380,LeagueOfLegends,Neutral,pulled out my video!,surprise
+7381,LeagueOfLegends,Neutral,Miss Fortune vs Tahm Kench - league-of-hentai.com/miss-fortune-v…. .,neutral
+7381,LeagueOfLegends,Neutral,Miss Fortune vs Tahm Kench - league-of-hentai.com / miss-fortune-v.....,sadness
+7381,LeagueOfLegends,Neutral,Miss Foundation vs Femme Kench - league-of-hentai.com / miss-fortune-v.....,sadness
+7381,LeagueOfLegends,Neutral,Miss Fortune vs Tahm<unk> - courtesy-of-hentai.com/miss-fortune-v…..,neutral
+7381,LeagueOfLegends,Neutral,2016 Miss Fortune Taylor vs Tahm Kench - v league - of - hentai. per com / miss - fortune - v …..,sadness
+7381,LeagueOfLegends,Neutral,of Fortune vs K Da - Date-of-hentai.com/miss-fortune-v.....,sadness
+7382,LeagueOfLegends,Neutral,Check out my video!,joy
+7382,LeagueOfLegends,Neutral,Take a look at my video!,joy
+7382,LeagueOfLegends,Neutral,Watch my video!,joy
+7382,LeagueOfLegends,Neutral,Check out my photos!,joy
+7382,LeagueOfLegends,Neutral,Check out my DJ video!,joy
+7382,LeagueOfLegends,Neutral,Check out its video!,joy
+7383,LeagueOfLegends,Negative,"league of legends sucks, play rogue company! Way better!!",disgust
+7383,LeagueOfLegends,Negative,"League of Legends sucks, play rogue company! Far better!!",disgust
+7383,LeagueOfLegends,Negative,"league of legends guys, play rogue company! Way better!!",neutral
+7383,LeagueOfLegends,Negative,"league of legends sucks, to play rogue company! What Way better!!",disgust
+7383,LeagueOfLegends,Negative,"league of legends and, play rogue company! Even better!!",neutral
+7384,LeagueOfLegends,Positive,League of Legends taught me to come to terms with my own disappointing third novel,sadness
+7384,LeagueOfLegends,Positive,League of Legends has taught me to process my own disappointing third novel,sadness
+7384,LeagueOfLegends,Positive,League of Legends taught me to come to terms with my own disappointing third novel,sadness
+7384,LeagueOfLegends,Positive,League of Legends taught me to come to terms with my utterly disappointing third novel,sadness
+7384,LeagueOfLegends,Positive,League Realm of Legends taught me to come to terms with my own disappointing upcoming third published novel,sadness
+7385,LeagueOfLegends,Negative,Tbh looking at all these talented dudes and how low their sub count is makes me really uncomfortable...,disgust
+7385,LeagueOfLegends,Negative,"Tbh, when I look at all these talented guys and how low their numbers are, I really feel uncomfortable...",fear
+7385,LeagueOfLegends,Negative,Tbh looking at all these talented guys and how low their number makes me really uncomfortable...,fear
+7385,LeagueOfLegends,Negative,Tbh looking to all these talented dudes and just low their sub count is makes me really uncomfortable...,disgust
+7385,LeagueOfLegends,Negative,Tbh just looking at all of these talented dudes and seeing how low their sub count truly is makes me really uncomfortable...,disgust
+7385,LeagueOfLegends,Negative,Tbh looking into all these talented musicians and how low their sub count is makes me really wonder...,surprise
+7386,LeagueOfLegends,Positive,"great stream, today. thank you all for coming out for the first ever League of Legends stream. gonna be doing that a lot more now.",joy
+7386,LeagueOfLegends,Positive,"great stream, today. Thank you all for coming out for the first League of Legends stream. I will do that much more now.",joy
+7386,LeagueOfLegends,Positive,"great stream, today. thank you all for coming out for the first ever League of Legends stream. gonna be doing that a lot more now.",joy
+7386,LeagueOfLegends,Positive,"great stream, today. thank you all for coming out for the first successful League of Legends stream. gonna try doing that a lot more now.",joy
+7386,LeagueOfLegends,Positive,"great athletic stream, today. thank you you all for... coming out for the first ever League of Eastern Legends stream. are gonna be doing that a lot more now.",joy
+7386,LeagueOfLegends,Positive,"the stream, today. thank you all about coming out for the first ever League of Legends stream. better be on that a lot more now.",joy
+7387,LeagueOfLegends,Neutral,Check out my video!,joy
+7387,LeagueOfLegends,Neutral,Take a look at my video!,joy
+7387,LeagueOfLegends,Neutral,Watch my video!,joy
+7387,LeagueOfLegends,Neutral,Check out my portfolio!,neutral
+7387,LeagueOfLegends,Neutral,Check out my daily video!,joy
+7387,LeagueOfLegends,Neutral,Check out my photos!,joy
+7388,LeagueOfLegends,Positive,6 game loss streak baby I love league of legends,sadness
+7388,LeagueOfLegends,Positive,6-game losing streak Baby I Love League of Legends,sadness
+7388,LeagueOfLegends,Positive,"A 6-game losing streak, I love the Champions League",joy
+7388,LeagueOfLegends,Positive,6 game loss streak and I love league of legends,joy
+7388,LeagueOfLegends,Positive,6 game winning loss streak baby guy I love league of legends,joy
+7388,LeagueOfLegends,Positive,6 game loss streak baby I mean league of legends,neutral
+7389,LeagueOfLegends,Neutral,"Had a thought, kbm players use to  play  league of legends before fortnite the fucking neeks .",neutral
+7389,LeagueOfLegends,Neutral,Had a thought to use kbm players to play League of Legends before fortnightly the damn nephews.,anger
+7389,LeagueOfLegends,Neutral,"We thought about what the players use to play in the Champions League, before forging fucking nudists.",disgust
+7389,LeagueOfLegends,Neutral,"Had a thought, most players use to  play  league the legends before fortnite the fucking neeks.",neutral
+7389,LeagueOfLegends,Neutral,"Had a thought, 3 kbm The players too use to always play league of legends before fortnite the fucking neeks.",neutral
+7389,LeagueOfLegends,Neutral,"Had a thought, kbm will use to give league to legends before when the fucking neeks.",disgust
+7390,LeagueOfLegends,Positive,Played for years cant say it was anything that luck that kept me from being punished lmfao,sadness
+7390,LeagueOfLegends,Positive,Played for years can not say that it was something lucky that prevented me from being punished. lmfao,sadness
+7390,LeagueOfLegends,Positive,Played for years cant say it was anything that luck that kept me from being punished lmfao,sadness
+7390,LeagueOfLegends,Positive,Played for years cant say it was anything that luck that saved me from being blocked lmfao,neutral
+7390,LeagueOfLegends,Positive,Played for years cant we say it was anything that I luck that kept with me from being soon punished lmfao,sadness
+7390,LeagueOfLegends,Positive,Played for years cant say it was anything that failed that kept in for being punished lmfao,sadness
+7392,LeagueOfLegends,Negative,League of Legends is having issues since 1:35 AM EDT. downdetector.com/status/league-… RT if it's down for you as well,neutral
+7392,LeagueOfLegends,Negative,League of Legends has been out since 1: 35am. downdetector.com / status / league-... RT even if it's down for you,neutral
+7392,LeagueOfLegends,Negative,"League of Legends is in trouble from 1: 35am EDT. downloadsor.com / status / league-... RT if it doesn't work for you, too.",sadness
+7392,LeagueOfLegends,Negative,League of Legends is having issues since 1:35 AM EDT. downdetector.com/status/league-… Check if it's down for longer as<unk>,neutral
+7392,LeagueOfLegends,Negative,League of Legends has having issues since 1:35 AM EDT. downdetector.com/status/league-... RT if someone's sensitive for this then well,neutral
+7393,LeagueOfLegends,Positive,No i like u motherfucker now kiss me,anger
+7393,LeagueOfLegends,Positive,No i like u motherfucker now kiss me,anger
+7393,LeagueOfLegends,Positive,No i like u motherfucker now kiss me,anger
+7393,LeagueOfLegends,Positive,No i better u motherfucker now kiss me,anger
+7393,LeagueOfLegends,Positive,No i you like do u motherfucker now kiss me,anger
+7393,LeagueOfLegends,Positive,No i can u motherfucker now kiss me,anger
+7394,LeagueOfLegends,Neutral,RhandlerR is live once again playing some LoL make sure to check it out. This man streams won’t disappoint! twitch.tv/spflow .,neutral
+7394,LeagueOfLegends,Neutral,see RhandlerR is live once again playing some LoL make sure to check it out. This man streams won’t disappoint! twitch.tv/spflow .,neutral
+7396,LeagueOfLegends,Positive,sometimes league of legends bugs are a blessing in disguise. @darryl_ty pic.twitter.com/jO45uFhhIO,neutral
+7396,LeagueOfLegends,Positive,sometimes League of Legends mistakes are a blessing in disguise. @ darryl _ ty pic.twitter.com / jO45uFhhIO,sadness
+7396,LeagueOfLegends,Positive,sometimes league of legends bugs are a blessing in disguise. RhandlerR pic.twitter.com/jO45uFhhIO,neutral
+7396,LeagueOfLegends,Positive,Radio sometimes league of legends bugs are a blessing in disguise. RhandlerR pic.twitter.com/jO45uFhhIO,neutral
+7397,LeagueOfLegends,Positive,Coven Morgana owl transformation.  I'm so excited about her new skin . . @lol_es @LeagueOfLegends,joy
+7397,LeagueOfLegends,Positive,Coven Morgana owl transformation. I'm so excited about her new skin.. @ lol _ es @ LeagueOfLegends,joy
+7397,LeagueOfLegends,Positive,I'm so excited about her new skin... @ lol _ es @ LeagueOfLegends,joy
+7397,LeagueOfLegends,Positive,Coven Morgana owl skin.  I'm so excited about her new skin. Source @lol_es @LeagueOfLegends,joy
+7397,LeagueOfLegends,Positive,Coven 1 Morgana An owl during transformation. I'm so excited about learning her new skin.. @lol_es not @LeagueOfLegends,joy
+7397,LeagueOfLegends,Positive,Coven Morgana mirror transformation. I'm so excited over this new look.. @lol_es @LeagueOfLegends,joy
+7398,LeagueOfLegends,Positive,Playing  . :D,neutral
+7398,LeagueOfLegends,Positive,Playing.: D,neutral
+7398,LeagueOfLegends,Positive,Playing.: D,neutral
+7398,LeagueOfLegends,Positive,Playing <unk> :D,neutral
+7398,LeagueOfLegends,Positive,Right Playing. : D,neutral
+7398,LeagueOfLegends,Positive,well. :D,neutral
+7399,LeagueOfLegends,Positive,this actually made me scream,fear
+7399,LeagueOfLegends,Positive,That actually made me scream,fear
+7399,LeagueOfLegends,Positive,this actually made me scream,fear
+7399,LeagueOfLegends,Positive,this kid made me scream,anger
+7399,LeagueOfLegends,Positive,this actually made me not scream,fear
+7399,LeagueOfLegends,Positive,this actually made myself scream,anger
+7400,LeagueOfLegends,Negative,stop playing league of legends and maybe youll find a fucking girlfriend you fucking nerd,anger
+7400,LeagueOfLegends,Negative,Stop playing League of Legends and maybe find a fucking girlfriend you fucking nerd,anger
+7400,LeagueOfLegends,Negative,Stop playing Champions League and maybe you'll find your fucking girlfriend with whom you fucking fucking nerves,anger
+7400,LeagueOfLegends,Negative,stop playing videos of legends and maybe youll find a fucking girlfriend you fucking nerd,anger
+7400,LeagueOfLegends,Negative,stop playing league of legends and and maybe youll find a nice fucking girlfriend woman you fucking nerd,anger
+7400,LeagueOfLegends,Negative,stop playing league of legends and hopefully they find a fucking girlfriend you fucking nerd,anger
+7401,LeagueOfLegends,Neutral,Check out my video!,joy
+7401,LeagueOfLegends,Neutral,Take a look at my video!,joy
+7401,LeagueOfLegends,Neutral,Watch my video!,joy
+7401,LeagueOfLegends,Neutral,Check out my podcast!,joy
+7401,LeagueOfLegends,Neutral,act out my video!,joy
+7402,LeagueOfLegends,Neutral,"As the Official Enterprise Networking Partner of League of Legends Esports, Cisco is committed to powering the future of",neutral
+7402,LeagueOfLegends,Neutral,"As an Official Enterprise Networking Partner of League of Legends Esports, Cisco is committed to the future of",neutral
+7402,LeagueOfLegends,Neutral,"As the official corporate network of the Legends Esports League, Cisco is committed to developing the company's future.",neutral
+7402,LeagueOfLegends,Neutral,"As the Official Enterprise Networking Partner FOR League of Legends Esports, Cisco is committed to powering the power of",neutral
+7402,LeagueOfLegends,Neutral,"As the Official Business Enterprise And Networking Partner of Tag League World of Legends Esports, Cisco Technologies is committed to powering the future of",neutral
+7402,LeagueOfLegends,Neutral,"As the Official Enterprise Networking Company of League of Premier Esports, Cisco is committed to protecting the future of",neutral
+7404,LeagueOfLegends,Negative,A @riotgames @LeagueOfLegends. 13 times that today play off their role. BIG FUCKING AND GOOD COMPANY,anger
+7405,LeagueOfLegends,Neutral,Legends of Runeterra - Master. Teamfight Tactics - Master. League of Legends - Gold 2. . I guess I'm just bad at skill-based games.  pic.twitter.com/WNSy8QaGL6,neutral
+7405,LeagueOfLegends,Neutral,Legends of Runeterra - Master. Teamfight Tactics - Master. League of Legends - Gold 2.. I guess I'm just bad at skill games. pic.twitter.com / WNSy8QaGL6,neutral
+7405,LeagueOfLegends,Neutral,Legends of Runeterra - Master. Fight Tactics - Master. League of Legends - Gold 2.,neutral
+7405,LeagueOfLegends,Neutral,Legends of Runeterra - Master. Teamfight Tactics - Master. League of Legends - Gold 2. . I guess I'm just bad at skill-based games.  pic.twitter.com/WNSy8QaGL6,neutral
+7405,LeagueOfLegends,Neutral,CS Legends of Runeterra - Master. Teamfight Tactics - Master. League of Legends - Gold 2. . I guess I'm just bad at skill-based games.  pic.twitter.com/WNSy8QaGL6,neutral
+7406,LeagueOfLegends,Positive,i have just dreamed i was playing league of legends with korone and i was playing support shaco with a controller.........it was so vivid..............,surprise
+7406,LeagueOfLegends,Positive,I just dreamed of playing League of Legends with Korone and playing with a controller... it was so vibrant...,surprise
+7406,LeagueOfLegends,Positive,I just dreamed of playing in the Champions League with and I played in the support area with....... it was so bright.......,surprise
+7406,LeagueOfLegends,Positive,i have always dreamed i was playing league of legends with korone and i was playing support shaco with a controller.........it felt so surreal,surprise
+7406,LeagueOfLegends,Positive,i i may have just dreamed i was playing league rugby of military legends with korone and somehow i e was already playing support chess shaco game with a chess controller......... it was so vivid..............,surprise
+7406,LeagueOfLegends,Positive,i have ever dreamed i are scoring league of house with korone today i remember playing support shaco with that controller.........it looks so vivid..............,surprise
+7407,LeagueOfLegends,Positive,i think i can officially say i am addicted to,joy
+7407,LeagueOfLegends,Positive,I think I can officially say that I'm addicted to,neutral
+7407,LeagueOfLegends,Positive,I think I can officially say that I am an adjunct to,neutral
+7407,LeagueOfLegends,Positive,i suppose i can officially say i am addicted to,sadness
+7407,LeagueOfLegends,Positive,i never think i can ever officially say i am addicted to,surprise
+7407,LeagueOfLegends,Positive,i think i could just say i am addicted to,sadness
+7408,LeagueOfLegends,Positive,fans: LCK? finally some good league of legends. DWG: we are about to show you a pro gamer move,surprise
+7408,LeagueOfLegends,Positive,Fans: LCK? finally a good League of Legends.,surprise
+7408,LeagueOfLegends,Positive,Fans: Champions League? at last some good Champions League. DVG: we're going to show a pro move.,neutral
+7408,LeagueOfLegends,Positive,fans: what? finally some good league of legends. DWG: we are about do show you a pro gamer move,surprise
+7408,LeagueOfLegends,Positive,The fans : LCK? finally some good league bunch of legends. DWG : we who are about about to show you a pro gamer to move,surprise
+7408,LeagueOfLegends,Positive,fans: LCK? finally some good league of legends. DWG: folks are about to show us a major wrestling move,surprise
+7409,LeagueOfLegends,Neutral,Thinking about doing some gameplay videos showcasing my Anivia through the ranks of elo hell..🤔. . .,fear
+7409,LeagueOfLegends,Neutral,When I think about making some gameplay videos that take my Anivia through the ranks of hell...,disgust
+7409,LeagueOfLegends,Neutral,Reflecting on making a few game videos showing my Anivia through the ranks of elo-hell.,neutral
+7409,LeagueOfLegends,Neutral,Thinking about doing some gameplay videos showcasing my Anivia dodging various ranks of elo hell..🤔...,sadness
+7409,LeagueOfLegends,Neutral,Thinking straight about finally doing again some gameplay videos showcasing my Anivia through in the deep ranks of elo hell.. [UNK]...,neutral
+7409,LeagueOfLegends,Neutral,dream about posting some gameplay videos showcasing my Anivia through the ranks this elo hell..<unk>...,surprise
+7411,LeagueOfLegends,Positive,This is pretty fun guy to watch if any of you are bored,joy
+7411,LeagueOfLegends,Positive,That's a pretty funny guy to watch when any of you are bored,joy
+7411,LeagueOfLegends,Positive,This is pretty fun guy to watch if any of you are bored,joy
+7411,LeagueOfLegends,Positive,This is pretty fun guy to watch if any of y are bored,joy
+7411,LeagueOfLegends,Positive,This is pretty a fun guy to watch if any of you are particularly bored,joy
+7411,LeagueOfLegends,Positive,This is pretty fun guy to meet if any of you are bored,joy
+7412,LeagueOfLegends,Positive,Bundle of Draven The Glorious Executioner Weapons Keychains. .  . . Retweet if you like! https://t.co/AS9jKG36UV,neutral
+7412,LeagueOfLegends,Positive,Bundle of Draven The Glorious Hangman Weapons keychain.... Retweet if you like! https: / / t.co / AS9jKG36UV,neutral
+7412,LeagueOfLegends,Positive,Bundle of Draven The Glorious Executive Weapons Keychains.... Retweet if you like! https: / / www.co / AS9jKG36UV,neutral
+7412,LeagueOfLegends,Positive,Bundle of Draven The Glorious Executioner Weapons Keychains.. .. Retweet if ya want! https://t.co/AS9jKG36UV],neutral
+7412,LeagueOfLegends,Positive,Bundle Army of Draven The Glorious First Executioner Weapons And Keychains.... and Retweet there if you do like! at https://t.co/AS9jKG36UV ],neutral
+7412,LeagueOfLegends,Positive,Bundle is Everything The Glorious Executioner Has Keychains.... Retweet and you like! •],neutral
+7413,LeagueOfLegends,Negative,Starting to hate this game,anger
+7413,LeagueOfLegends,Negative,Start to hate this game,anger
+7413,LeagueOfLegends,Negative,Start Hating This Game,anger
+7413,LeagueOfLegends,Negative,Starting to hate this quiz,anger
+7413,LeagueOfLegends,Negative,3 Starting to hate this game,anger
+7413,LeagueOfLegends,Negative,Starting to hate video game,anger
+7414,LeagueOfLegends,Neutral,"I’m not a fan of any region or team, I am just a fan of whoever is playing the best League of Legends in the world. And right now, that just happens to be Team Solo Mid. SILVER SCRAPES HYPE!!",neutral
+7414,LeagueOfLegends,Neutral,"I'm not a fan of any region or team, I'm just a fan of who plays the best league of legends in the world, and at the moment it just happens to be Team Solo Mid. SILVER SCRAPES HYPE!!",neutral
+7414,LeagueOfLegends,Neutral,"I'm not a fan of any region or team, I'm just a fan of the fact that has ever played in the best League of Legends in the world. And now it's just Solo Mead's team. SILVER SCPES HYPE!!",neutral
+7414,LeagueOfLegends,Neutral,"I’m not a fan of any region or team, I am just a fan of whoever currently playing the best League of Legends on the world. Or straight off, that just happens to be Team Solo Mid. SILVER SCRAPES HYPE!!",neutral
+7414,LeagueOfLegends,Neutral,"I ’ m not a fan of winning any region one or no team, here I am just a fan of beating whoever is playing the best fantasy League of Legends in the real world. And now right now, that just happens to be Team Solo the Mid. SILVER YOU SCRAPES HYPE!!",neutral
+7414,LeagueOfLegends,Neutral,"I’m not a focus on any person or team, I am just a fan of whoever is performing the best League of Legends for the world. And right now, that is happens To be Team Solo 8. SILVER SCRAPES HYPE!!",neutral
+7415,LeagueOfLegends,Neutral,"October is bringing a great vibe, great music and even better times. Steady on the grind, deep cut, enjoy! cut, enjoy! . twitch.tv/harrisonwiley.",joy
+7415,LeagueOfLegends,Neutral,"October brings a great atmosphere, great music and even better times. Constantly on the ground, deep cut, enjoy! cut, enjoy!. twitch.tv / harrisonwiley.",joy
+7415,LeagueOfLegends,Neutral,"October brings great mood, great music and even better times. Get down to the grind, deep cut, enjoy! cut, enjoy!.",joy
+7415,LeagueOfLegends,Neutral,"October is bringing a great vibe, great music and even better times. Steady on the grind, deep cut, enjoy! cut, enjoy! . twitch.tv/harrisonwiley.",joy
+7415,LeagueOfLegends,Neutral,"CD October is bringing a great vibe, great music and even better times. Steady on the grind, deep cut, enjoy! cut, enjoy! . twitch.tv/harrisonwiley.",joy
+7416,LeagueOfLegends,Neutral,i wish RageQuitters on,sadness
+7416,LeagueOfLegends,Neutral,I wish RageQuitters on,sadness
+7416,LeagueOfLegends,Neutral,i wish RageQuitters on,sadness
+7416,LeagueOfLegends,Neutral,i wish them on,sadness
+7416,LeagueOfLegends,Neutral,i wish on RageQuitters on,sadness
+7416,LeagueOfLegends,Neutral,i wish flowers on,sadness
+7418,LeagueOfLegends,Neutral,Check out my video!,joy
+7418,LeagueOfLegends,Neutral,Take a look at my video!,joy
+7418,LeagueOfLegends,Neutral,Watch my video!,joy
+7418,LeagueOfLegends,Neutral,Check out that video!,joy
+7418,LeagueOfLegends,Neutral,Check out the video!,joy
+7419,LeagueOfLegends,Neutral,"Hi! I'm ash, we multi-ship in this house. . . I like makeup, crying, eating, writing, league of legends and throwing my love at people.. . AO3. : archiveofourown.org/users/SimpleSa…. . CC. : curiouscat.me/SimpleSalsa_ https://t.co/5hFEpr1lj2",joy
+7419,LeagueOfLegends,Neutral,"Hello! I am ashes, we ship several ships in this house... I like makeup, crying, eating, writing, League of Legends and throwing my love at people... AO3.: archiveofourown.org / users / SimpleSa..... CC.: curiouscat.me / SimpleSalsa _ https: / / t.co / 5hFEpr1lj2",joy
+7419,LeagueOfLegends,Neutral,"Hi! I'm ash, we multiship in this house... I like makeup, crying, eating, writing, league of hands and throwing my love to people... AO3.: archiveofourof.org / users / SimpleSa..... CC.: curiouscat.me / SimpleSalsa _ https: / / Fenco / 5hFEpr1lj2",joy
+7419,LeagueOfLegends,Neutral,"Hi! I'm ash, we multi-ship in this house. I.. Must hate makeup, crying, eating, writing, league of legends and throwing my love at people... CC. http archiveofourown.org/users/SimpleSa….. CC. { curiouscat.me/SimpleSalsa_ https://t.co/5hFEpr1lj2]",surprise
+7419,LeagueOfLegends,Neutral,"Hi! I'en m ash, we multi - year ship in at this house... I also like makeup, crying, eating, writing, middle league racing of legends making and always throwing my love at people... AO3. : archiveofourown. org org / users / SimpleSa ….. CC. : with curiouscat. me / SimpleSalsa _ https://t.co/5hFEpr1lj2 ]",joy
+7419,LeagueOfLegends,Neutral,"there! I'm ash, we take-ship of this house... I like running, shoes, eating, writing, league of legends and all my of my life... AO3. : blog.org/users/SimpleSa..... CC. : curiouscat.me/SimpleSalsa_ https://t.co/5hFEpr1lj2]",neutral
+7421,LeagueOfLegends,Positive,Omg my Dreamcatcher x League of legends crumbs .  btw Seraphine you have a good taste .,surprise
+7421,LeagueOfLegends,Positive,Omg my Dreamcatcher x League of Legends is crumbling.,surprise
+7421,LeagueOfLegends,Positive,Omg my Dreamcatcher x League of Federals cruises.,surprise
+7421,LeagueOfLegends,Positive,Omg my Dreamcatcher x 100 of legends crumbs.  btw Seraphine you have really good taste.,surprise
+7421,LeagueOfLegends,Positive,Omg my damn Dreamcatcher x X League King of legends is crumbs. btw Seraphine believe you have a good taste.,surprise
+7421,LeagueOfLegends,Positive,Omg my beloved x League of legends song. Thanks Seraphine you have a good go.,surprise
+7422,LeagueOfLegends,Neutral,"I edited this a while ago, I really have to get back into editing, it’s pretty fun when the motivations hit! . .",joy
+7422,LeagueOfLegends,Neutral,"I worked on it some time ago, I really need to get back into it, it's quite fun when the motivation kicks in!.",joy
+7422,LeagueOfLegends,Neutral,"I edited it some time ago, I really have to go back to edification, it's quite fun when the motivation hits!...",joy
+7422,LeagueOfLegends,Neutral,"I edited this a while ago, I really have to get on into editing, it’s pretty fun when the motivations hit!.<unk>",joy
+7422,LeagueOfLegends,Neutral,"I very edited up this a while ago, I do really have to get back into editing, because it ’ don s pretty fun when the motivations hit!..",joy
+7422,LeagueOfLegends,Neutral,"I edited this a while Back, I really have to get back into photography, it’s pretty fun when the breaks hit!..",joy
+7423,LeagueOfLegends,Positive,It was all worth it . (. ω. (.  ).,joy
+7423,LeagueOfLegends,Positive,It was worth it. (...).,joy
+7423,LeagueOfLegends,Positive,It was all worth it.,joy
+7423,LeagueOfLegends,Positive,"It was all worth it. (.,. (.  ).",joy
+7423,LeagueOfLegends,Positive,It was then all worth doing it. (. ω. (. ).,neutral
+7423,LeagueOfLegends,Positive,I was all in it. (. <unk>. (. ).,neutral
+7424,LeagueOfLegends,Negative,RhandlerR RhandlerR.  twitter.com/DumbledogeLoL. . Is homophobia not a crime for u guyz? Or u just want to sell skins and dont care about your employees?,neutral
+7424,LeagueOfLegends,Negative,and RhandlerR RhandlerR.  twitter.com/DumbledogeLoL. . Is homophobia not a crime for u guyz? Or u just want to sell skins and dont care about your employees?,neutral
+7426,LeagueOfLegends,Neutral,the police just interrupted my league of legends game this should be illegal,anger
+7426,LeagueOfLegends,Neutral,"The police have just stopped my Legends game, it should be illegal",anger
+7426,LeagueOfLegends,Neutral,"The police just interrupted my Champions League game, it must be illegal",anger
+7426,LeagueOfLegends,Neutral,the police just interrupted my league of legends game this should be something,surprise
+7426,LeagueOfLegends,Neutral,the police just interrupted my and league of legends game this day should be illegal,anger
+7426,LeagueOfLegends,Neutral,the police car interrupted the league of legends game this should be illegal,anger
+7428,LeagueOfLegends,Negative,"Faders are a problem, people who can't stand to battle, win or lose, shouldn't play, it hurts the game. . . ""Riot plans to improve detection for griefers and “mitigate harm” to affected League of Legends players."". . dotesports.com/league-of-lege…",sadness
+7428,LeagueOfLegends,Negative,"Faders are a problem, people who can't bear to fight, win or lose should not play, it hurts the game. ""Riot plans to improve the detection of mourners and"" reduce the damage to affected League of Legends players. ""dotesports.com / league-of-lege...",sadness
+7428,LeagueOfLegends,Negative,"Fathers are a problem, people who can't fight, win or lose, shouldn't play, it hurts the game... ""The riot plans to improve conditions for fans and"" harm ""the injured League of Legends players..."" dotesports.com / league-of-ledge...",anger
+7428,LeagueOfLegends,Negative,"Faders are a threat, people who can't stand to battle, win or lose, disrupting play, which hurts the game.. 4 ""Riot plans to improve detection against griefers and “mitigate harm” to affected League of Legends players.""..<unk>.com/league-of-lege…",fear
+7428,LeagueOfLegends,Negative,"Faders there are a constant problem, people who can't stand to battle, should win or lose, shouldn't play, it hurts changing the playing game... "" Riot Force plans try to improve detection for griefers and can “ mitigate harm ” to affected future League of Legends Legends players. "".. dotesports. com / league - of - lege …",sadness
+7428,LeagueOfLegends,Negative,"Faders are a fantasy, men who can't work to battle, win and lose, shouldn't be, this hurts a game... ""Riot plans to customize coverage for griefers and “mitigate harm” by affected League of Legends players."".. dotesports.com/league-of-lege...",sadness
+7429,LeagueOfLegends,Neutral,Check out my video!,joy
+7429,LeagueOfLegends,Neutral,Take a look at my video!,joy
+7429,LeagueOfLegends,Neutral,Watch my video!,joy
+7429,LeagueOfLegends,Neutral,Check out my videos!,joy
+7429,LeagueOfLegends,Neutral,Check that out my video!,joy
+7429,LeagueOfLegends,Neutral,find out my video!,neutral
+7431,LeagueOfLegends,Positive,"I can't believe i'm saying this but, League of Legends is kind of the best game i've ever played. I'ts sort of like it was created by Steve Jobs.",surprise
+7431,LeagueOfLegends,Positive,"I can't believe I'm saying this, but League of Legends is something of the best game I've ever played.",surprise
+7431,LeagueOfLegends,Positive,"I can't believe i'm saying this but, League of Legends is kind of the best game i've ever played. I'm sort of like it was created by Steve Jobs.",surprise
+7431,LeagueOfLegends,Positive,"I can't believe i'm saying it already, League of Legends is kind of the best game i've ever played. I'ts sort of sorry it was created by Steve Jobs.",surprise
+7431,LeagueOfLegends,Positive,"for I can't totally believe what i'm saying this but, League of Country Legends is kind of the 4th best game i've ever played. The I'ts sort feel of like it was created by Steve Steve Jobs.",surprise
+7431,LeagueOfLegends,Positive,"I can't think i'm saying this but, League of Legends is kind of the favourite game i've ever played. I'ts sort my feel the was created on Steve Jobs.",surprise
+7432,LeagueOfLegends,Neutral,league of legends honestly makes me depressed as shit i cant believe i still play this trash game,sadness
+7432,LeagueOfLegends,Neutral,League of Legends honestly makes me depressed because I can't believe I'm still playing this trash game,sadness
+7432,LeagueOfLegends,Neutral,"The Champions League, to be honest, depresses me like crap I can't believe I'm still playing this thrash game",disgust
+7432,LeagueOfLegends,Neutral,league of legends honestly makes me depressed as christ i cant believe i still play this trash game,sadness
+7432,LeagueOfLegends,Neutral,league of black legends honestly love makes inside me depressed as shit i cant believe i still play this trash game,sadness
+7432,LeagueOfLegends,Neutral,league of games honestly leave me depressed in shit i cant believe i still play this trash game,sadness
+7433,LeagueOfLegends,Neutral,So good I had to share! Check out all the items I'm loving on @Poshmarkapp from @ShopAngryKitty,anger
+7433,LeagueOfLegends,Neutral,So good I had to share! Check out all the items I love on @ Poshmarkapp by @ ShopAngryKitty,anger
+7433,LeagueOfLegends,Neutral,So good I had to share! Check out all the items I'm loving on @ Poshmarkapp from @ ShopAngryKitty,anger
+7433,LeagueOfLegends,Neutral,So good I had to download! Check out all the articles I'm loving on @Poshmarkapp from @ShopAngryKitty,anger
+7433,LeagueOfLegends,Neutral,So good I so had to somehow share! Check out all about the items I'll m ever loving on @Poshmarkapp from @ShopAngryKitty,anger
+7433,LeagueOfLegends,Neutral,So good I had to buy! Check out all my items I'm finding on @Poshmarkapp from @ShopAngryKitty,anger
+7434,LeagueOfLegends,Neutral,Pool Party Caitlyn .  . So excited to finally have some summer photos!  . . . : Chris Cucufate pic.twitter.com/GhiCW12nmt,joy
+7434,LeagueOfLegends,Neutral,Pool party Caitlyn.. So excited to finally have some summer photos!...: Chris Cucufate pic.twitter.com / GhiCW12nmt,joy
+7434,LeagueOfLegends,Neutral,Pool Party Caitlyn... so excited to finally get some summer photos!...: Chris Cucufate pic.freedom / GhiCW12n,joy
+7434,LeagueOfLegends,Neutral,Pool Party Caitlyn .  . So excited to finally have some summer photos!  . . . : Chris Cucufate pic.twitter.com/GhiCW12nmt,joy
+7434,LeagueOfLegends,Neutral,2015 Pool Party Caitlyn .  . So excited to finally have some summer photos!  . . . : Chris Cucufate pic.twitter.com/GhiCW12nmt,joy
+7435,LeagueOfLegends,Neutral,"THIS IS THE HIGHEST COMPLEMENT I HAVE EVER RECEIVED, THANK YOU MUCH DUDE.. Home said thought it was @Sneaky and I'm fucking honored af. .",joy
+7435,LeagueOfLegends,Neutral,"This is the highest compliment I've ever received, THANK YOU MUCH DUDE.. Home said it was @ Sneaky and I'm damn honored af.",joy
+7435,LeagueOfLegends,Neutral,"THIS IS THE ONE DAY I HAVE EVER RECEIVED, THANK YOU TO DUDE.. Home said thought it was @Sneaky and I'm fucking honored af..",surprise
+7435,LeagueOfLegends,Neutral,"THIS WHO IS THE HIGHEST COMPLEMENT If I HAVE EVER AND RECEIVED, THANK YOU GO MUCH A DUDE.. Home never said thought at it I was @Sneaky and this I'm fucking this honored af..",surprise
+7435,LeagueOfLegends,Neutral,"YOU W THE HIGHEST YOUR MAY HAVE EVER RECEIVED, THANK THIS MUCH DUDE.. You said thought it was @Sneaky and so'm fucking honored af..",surprise
+7436,LeagueOfLegends,Negative,today is a bad day for league of legends,sadness
+7436,LeagueOfLegends,Negative,Today is a bad day for the League of Legends,sadness
+7436,LeagueOfLegends,Negative,Today is a bad day for the Champions League,sadness
+7436,LeagueOfLegends,Negative,today is a bad day RIP league of legends,sadness
+7436,LeagueOfLegends,Negative,today is a bad day for my league of legends,sadness
+7436,LeagueOfLegends,Negative,today is a glorious day for league of legends,joy
+7437,LeagueOfLegends,Negative,loading screen won't end :(,sadness
+7437,LeagueOfLegends,Negative,The loading screen will not end: (,neutral
+7437,LeagueOfLegends,Negative,Screen loading will not end: (,neutral
+7437,LeagueOfLegends,Negative,loading screen won't open :(,sadness
+7437,LeagueOfLegends,Negative,loading a screen won't end : (,neutral
+7437,LeagueOfLegends,Negative,loading screen does't end :(,sadness
+7438,LeagueOfLegends,Negative,Easy Birthday Games!. .,joy
+7438,LeagueOfLegends,Negative,Easy Birthday Games!..,joy
+7438,LeagueOfLegends,Negative,Easy Birthday Games!..,joy
+7438,LeagueOfLegends,Negative,Easy Birthday Gifts.,joy
+7438,LeagueOfLegends,Negative,Easy Birthday Game Games!..,joy
+7438,LeagueOfLegends,Negative,Easy Mental Games!..,joy
+7439,LeagueOfLegends,Negative,Why are all the runes scuffed?. Give me back my LP rito! . . @riotgames @LeagueOfLegends,anger
+7439,LeagueOfLegends,Negative,Why are all runes scraped off?.. give me my LP back!.. @ riotgames @ LeagueOfLegends,anger
+7439,LeagueOfLegends,Negative,Why are all the rues scuffed?. Give me back my LP rito!.. @ riotgames @ LeagueOfLegends,anger
+7439,LeagueOfLegends,Negative,Why got all the runes scuffed?. Give everything back my LP rito!.. @riotgames @LeagueOfLegends,anger
+7439,LeagueOfLegends,Negative,23 Why else are all the runes being scuffed?. Give and me back my LP rito!.. @riotgames To @LeagueOfLegends,anger
+7439,LeagueOfLegends,Negative,Why only even those runes scuffed?. Give me back my LP rito!.. Free @riotgames,surprise
+7440,LeagueOfLegends,Neutral,This Match Describes Season 10 Perfectly .  . youtu.be/EWDSndvH014,neutral
+7440,LeagueOfLegends,Neutral,This match perfectly describes season 10.. youtu.be / EWDSndvH014,neutral
+7440,LeagueOfLegends,Neutral,This match perfectly describes the 10th season.. youtu.be / EWDSn014,neutral
+7440,LeagueOfLegends,Neutral,This Match Describes Round 10 Perfectly. . a.be/EWDSndvH014,neutral
+7440,LeagueOfLegends,Neutral,Save This Match Describes Season ending 10 with Perfectly.. in youtu. be / EWDSndvH014,neutral
+7440,LeagueOfLegends,Neutral,This Make Work Season 10 Perfectly.. from.be/EWDSndvH014,neutral
+7441,LeagueOfLegends,Neutral,Hmmm Top lane Scion mad at me (Voli Bear) cause he did a bit more damage than me (jungle). lol,neutral
+7441,LeagueOfLegends,Neutral,Hmmm upper lane Scion angry with me (Voli Bear) because he did a little more damage than me (Jungle). lol,anger
+7441,LeagueOfLegends,Neutral,Home Top lane Scion made at me (Voli Bear) cause he did a bit more damage than me (jungle). lol,neutral
+7441,LeagueOfLegends,Neutral,Hmmm a lane Scion mad at me (Voli Bear) cause Zed did a bit more damage than me (jungle). lol,neutral
+7441,LeagueOfLegends,Neutral,Hmmm Top lane you Scion mad things at little me ( Voli Bear ) cause he did really a bit more structural damage than me ( jungle ). lol,anger
+7441,LeagueOfLegends,Neutral,Hmmm Top lane gets mad at me (Voli water) cause he did quite bit more damage than his (jungle). lol,neutral
+7443,LeagueOfLegends,Neutral,"Playing solo Q ranked, my ADC picked Xayah and I went Rakan, both have SG skins, this is either gonna go really bad or really good.",neutral
+7443,LeagueOfLegends,Neutral,"I played Solo Q, my ADC chose Xayah and I went to Rakan, both have SG skins, it's either going to be really bad or really good.",neutral
+7443,LeagueOfLegends,Neutral,"Playing Q solo, my ADC picked Xayah and I went Rakan, both have good skin, it's either going very bad or really good.",neutral
+7443,LeagueOfLegends,Neutral,"Playing solo Q ranked, my ADC picked Xayah and I went Rakan, both have SG skins, this is either gonna go totally bad and kinda good.",neutral
+7443,LeagueOfLegends,Neutral,"Playing my solo Q ranked, my ADC picked Xayah and I all went for Rakan, both have SG skins, here this is so either gonna go really bad or so really fucking good.",joy
+7443,LeagueOfLegends,Neutral,"Playing solo versus ranked, my ADC came Xayah and I went Rakan, both at SG 8, this is either gonna go really bad vs really good.",neutral
+7445,LeagueOfLegends,Neutral,I mean how @ wandapls @ Henhayan just posts one photo of something we don't really know what it is and now we're trying to figure it out and put the pieces together: D,surprise
+7446,LeagueOfLegends,Negative,My League of Legends started having FPS spikes two days ago. Is this a sign I should stop playing?,anger
+7446,LeagueOfLegends,Negative,My League of Legends has had FPS spikes for the past two days. Is this a sign that I should stop playing?,anger
+7446,LeagueOfLegends,Negative,My League of Legends started having problems with FPS two days ago. Is this a sign that I should stop playing?,anger
+7446,LeagueOfLegends,Negative,My Dominion of Kings started having FPS spikes two days ago. Is this a sign I should stop playing?,anger
+7446,LeagueOfLegends,Negative,2 My League Championship of Legends started having FPS spikes two damn days ago. Is this a sign I should not stop playing?,anger
+7446,LeagueOfLegends,Negative,that City of Legends started having FPS spikes two days ago. Is this the sign I should stop playing?,neutral
+7447,LeagueOfLegends,Negative,Not my gunblade pic.twitter.com/Gfk7wn5BoW,neutral
+7447,LeagueOfLegends,Negative,Not my gunblade pic.twitter.com / Gfk7wn5BoW,neutral
+7447,LeagueOfLegends,Negative,Not my gunblade pic.wikipedia.org / Gfk75BoW,neutral
+7447,LeagueOfLegends,Negative,Not my gunblade pic.twitter.com/Gfk7wn5BoW,neutral
+7447,LeagueOfLegends,Negative,See Not my gunblade pic.twitter.com/Gfk7wn5BoW,neutral
+7448,LeagueOfLegends,Negative,why do games always have to make the ugliest most annoying male characters and just add the Playboy Trait to them and all of you fall for it stop making me look at mirage apexlegends and sett leagueoflegends FUCK its so annoying,anger
+7448,LeagueOfLegends,Negative,"Why do games always have to make the ugliest annoying male characters and just add the Playboy feature to them and you all fall for it, stop making me look so annoying on mirage aphorisms and sett leagueoflegends FUCK its",anger
+7448,LeagueOfLegends,Negative,"Why games should always make the most annoying male characters and just add Playboy Trait to them and you all fall for it, stop making me look at mirage apexes and setlist legeophlegendas FUCK it so irritatingly",anger
+7448,LeagueOfLegends,Negative,why do games always have to make the ugliest most annoying male characters and just add the Playboy title to them and all of you died for it stop making me angry at this land and sett leagueoflegends FUCK its so annoying,anger
+7448,LeagueOfLegends,Negative,why men do games always have to make the 2 ugliest most annoying male characters look and just plain add the Playboy Trait figure to them and all sort of when you fall for it stop making let me look at mirage and apexlegends below and sett leagueoflegends FUCK its so annoying,anger
+7448,LeagueOfLegends,Negative,why do games always have to involve the ugliest fucking fucking anime characters and sometimes add out Playboy Trait to them because all games you fall for that stop making me look at mirage apexlegends and sett leagueoflegends FUCK its so annoying,anger
+7449,LeagueOfLegends,Negative,"hey @riotgames  // @LeagueOfLegends  , you sanction a bunch of ""toxic playesr""  , but you are avoiding troll players. . can you shared us an explanation... or maybe you are same as  . .",anger
+7449,LeagueOfLegends,Negative,"hey @ riotgames / / @ LeagueOfLegends, you sanction some ""toxic gamesR,"" but you avoid troll players... can you give us an explanation... or maybe you are the same.",anger
+7449,LeagueOfLegends,Negative,"hey @ riotgames / / @ LeagueOfLegends, you sanction a bunch of ""toxic playesr,"" but you are avoiding troll players.. can you share us an explanation... or maybe you are the same as...",anger
+7449,LeagueOfLegends,Negative,"hey @riotgames  // @LeagueOfLegends , you sanction a rather more ""toxic playesr"" , but you are avoiding those players.. can you shared us the explanation... or maybe you are same as ..",fear
+7449,LeagueOfLegends,Negative,"hey @riotgames / / here @LeagueOfLegends, you sanction us a bunch of "" dangerously toxic playesr "", but you certainly are avoiding troll by players.. never can you shared with us an explanation... or maybe then you really are working same as..",anger
+7449,LeagueOfLegends,Negative,"hey @riotgames // @LeagueOfLegends, you become a much more ""toxic playesr"", plus you are all troll players.. can you shared us an exchange... or maybe it are same guy..",anger
+7452,LeagueOfLegends,Neutral,RhandlerR RhandlerR man I’m so glad you ban “toxic chat” but you sure don’t ban people who literally get into game and leave afk. That’s the true toxicity. Loses lane gets killed twice no commas and disconnects entirely before 15 mins. Level 30 and gets place in gold game pic.twitter.com/KrPx9Qe4EF,neutral
+7452,LeagueOfLegends,Neutral,DB RhandlerR RhandlerR man I’m so glad you ban “toxic chat” but you sure don’t ban people who literally get into game and leave afk. That’s the true toxicity. Loses lane gets killed twice no commas and disconnects entirely before 15 mins. Level 30 and gets place in gold game pic.twitter.com/KrPx9Qe4EF,neutral
+7453,LeagueOfLegends,Neutral,This episode of Hell's Kitchen will always be my favorite. .,neutral
+7453,LeagueOfLegends,Neutral,This episode of Hell's Kitchen will always be my favourite.,joy
+7453,LeagueOfLegends,Neutral,This episode of Kitchen Hell will always be my favorite...,neutral
+7453,LeagueOfLegends,Neutral,This episode of Hell's Kitchen will always be my favorite. —,neutral
+7453,LeagueOfLegends,Neutral,This first episode of Hell's Kitchen will nearly always be my favorite..,joy
+7453,LeagueOfLegends,Neutral,This episode by Hell's Kitchen will always be my thing..,neutral
+7454,LeagueOfLegends,Neutral,League of Legends announcer packs delayed due to coronavirus .  Dot Esports,sadness
+7454,LeagueOfLegends,Neutral,League of Legends Announcer Packs Delayed Due to Coronavirus. Dot Esports,sadness
+7454,LeagueOfLegends,Neutral,League of Legends announcer delayed by coronavirus,neutral
+7454,LeagueOfLegends,Neutral,League of Legends announcer packs delayed related to coronavirus.  Dot Esports,sadness
+7454,LeagueOfLegends,Neutral,The League of Legends announcer pitch packs delayed due to coronavirus. Radio Dot Esports,sadness
+7454,LeagueOfLegends,Neutral,League for Legends announcer packs delayed according to coronavirus. Dot Esports,sadness
+7456,LeagueOfLegends,Neutral,West had a bit of hope for a good playoff finish but it’s slowly dying with @G2esports getting worse with every game. At least NA is getting a few wins ).,anger
+7456,LeagueOfLegends,Neutral,"West had a little hope of a good playoff result, but it's dying slowly as @ G2esports gets worse with each game.",sadness
+7456,LeagueOfLegends,Neutral,"West had little hope of a good playoff finish, but he is slowly dying with @ G2espa getting worse with every game - at least gets a few wins).",anger
+7456,LeagueOfLegends,Neutral,West had a bit of juice for a good playoff finish but it’s slowly dying with @G2esports getting worse with every game. At least Green is getting their few wins ).,anger
+7456,LeagueOfLegends,Neutral,The West had a bit bit of any hope for a good playoff finish but it ’ s slowly dying with @G2esports getting progressively worse with every game. At least its NA is getting but a few wins ).,sadness
+7456,LeagueOfLegends,Neutral,West had a month of hope at getting good trophy finish but started slowly dying with @G2esports getting worse with your game. At least NA is getting a few wins ).,anger
+7457,LeagueOfLegends,Neutral,It is not the first time that the EU Commission has taken such a step.,neutral
+7457,LeagueOfLegends,Neutral,"At the same time, despite the fact that there are currently some 100 million people living below the poverty line, most of them do not have access to health services and do not have access to health care, while most of them do not have access to health care.",neutral
+7458,LeagueOfLegends,Positive,Nothing like getting two leavers in the game that would have promoted you. I love league of legends. 🤡,joy
+7458,LeagueOfLegends,Positive,I love the League of Legends.,joy
+7458,LeagueOfLegends,Positive,I love the Champions League.,joy
+7458,LeagueOfLegends,Positive,Nothing like getting two leavers in the game AFTER they have promoted you. I love league of legends. 🤡,joy
+7458,LeagueOfLegends,Positive,Nothing like almost getting two leavers in the college game that would have promoted you. I simply love our league of legends. [UNK],joy
+7458,LeagueOfLegends,Positive,not like getting two leavers in this game than would have promoted you. I love league of legends. <unk>,joy
+7459,LeagueOfLegends,Neutral,I made some nerd virgin on league of legends listen to Gulch and they said it hurt their ears and I called them weak,neutral
+7459,LeagueOfLegends,Neutral,I got a nerd maiden in the League of Legends to listen to Gulch and they said it hurt her ears and I called her weak.,disgust
+7459,LeagueOfLegends,Neutral,I made the girls listen to Gulch and they said it hurt their ears and I called them weak,disgust
+7459,LeagueOfLegends,Neutral,I made some nerd virgin on league of legends listen to Gulch and they said it hurt like ears and I called it weak,neutral
+7459,LeagueOfLegends,Neutral,I made them some nerd virgin on that league of legends listen to Gulch and they all said it hurt to their ears and I called them that weak,neutral
+7459,LeagueOfLegends,Neutral,I made some nerd virgin on league of legends listen for this and they said it raised new ears and I called them weak,neutral
+7461,LeagueOfLegends,Positive,something about lulu from league of legends that makes me so emotional....,sadness
+7461,LeagueOfLegends,Positive,Something about Lulu from the League of Legends that makes me so emotional....,sadness
+7461,LeagueOfLegends,Positive,There's something about Lulu from the Champions League that makes me so emotional....,sadness
+7461,LeagueOfLegends,Positive,something about lulu from years of legends that makes me so emotional....,sadness
+7461,LeagueOfLegends,Positive,something about lulu from some league of legends that makes for me just so emotional....,sadness
+7461,LeagueOfLegends,Positive,something about lulu from league show legends that makes him so emotional....,sadness
+7462,LeagueOfLegends,Negative,"52 CS in 27 minutes is thrash, Iron 4 vibes",joy
+7462,LeagueOfLegends,Negative,"52 CS in 27 minutes is Thrash, Iron 4 Vibes",neutral
+7462,LeagueOfLegends,Negative,"52 CS in 27 minutes is thrash, Iron 4 vibrations",surprise
+7462,LeagueOfLegends,Negative,"52 CS at 27 minutes is thrash, Iron 4 vibes",joy
+7462,LeagueOfLegends,Negative,"52 D CS in 27 minutes is the thrash, Iron 4 vibes",neutral
+7462,LeagueOfLegends,Negative,"52 guys in 48 minutes is thrash, Iron 4 vibes",joy
+7463,LeagueOfLegends,Neutral,Check out my video!,joy
+7463,LeagueOfLegends,Neutral,Take a look at my video!,joy
+7463,LeagueOfLegends,Neutral,Watch my video!,joy
+7463,LeagueOfLegends,Neutral,Check out his video!,joy
+7463,LeagueOfLegends,Neutral,Check again out my video!,joy
+7463,LeagueOfLegends,Neutral,Check out our video!,joy
+7464,LeagueOfLegends,Positive,so glad Korean League of Legends is back on our screens. The first series has already been better than all the LCS/LEC games so far,joy
+7464,LeagueOfLegends,Positive,So glad Korean League of Legends is back on our screens. The first series was already better than all previous LCS / LEC games,joy
+7464,LeagueOfLegends,Positive,so happy that the Korean League of Legends is back on our screens. The first series has already been better than all the LCS / LEC games so far,joy
+7464,LeagueOfLegends,Positive,so glad Korean League B Legends is back on our screens. The first series has already progressed better than all the LCS/LEC games so far,joy
+7464,LeagueOfLegends,Positive,Just so glad The Korean League of Legends is back on on our view screens. The first series has already somehow been better than virtually all the LCS / LEC games so far,joy
+7464,LeagueOfLegends,Positive,so happy Korean Knights of Mad is back on our screens. The first series has already been better than all the LCS/LEC games this far,joy
+7465,LeagueOfLegends,Negative,Like a losing league of legends game chat,sadness
+7465,LeagueOfLegends,Negative,Like a lost league of legends,sadness
+7465,LeagueOfLegends,Negative,Like a losing league of game chats,sadness
+7465,LeagueOfLegends,Negative,Like a losing league of legends live chat,neutral
+7465,LeagueOfLegends,Negative,Like a losing league of virtual game chat,sadness
+7466,LeagueOfLegends,Neutral,I need a healslut to duo ranked with in league of legends. I’m so tired of these random ass teammates. It will be fun. Just keep me healed like the dumb whore you are.,neutral
+7466,LeagueOfLegends,Neutral,I need a healthy bitch to duel with her in the League of Legends. I'm so tired of these arbitrary ass teammates. It's going to be fun. Just keep me healed like the stupid whore you are.,joy
+7466,LeagueOfLegends,Neutral,I'm so tired of these random ass teammates. It's going to be fun. Just keep me on my toes like the dumb whore you are.,joy
+7466,LeagueOfLegends,Neutral,I need a healslut to duo ranked with that league of legends. I’m so fond of playing random ass teammates. It will be fun. Just keep me healed like the dumb whore some are.,joy
+7466,LeagueOfLegends,Neutral,So I need a healslut to duo ranked with in his league of soccer legends. I ’ because m so tired of these random tough ass teammates. It will be fun. Just... keep me healed like the dumb whore when you really are.,joy
+7466,LeagueOfLegends,Neutral,I had my healslut romance duo ranked with in league of legends. I’m so tired fighting these random cold teammates. It will be fun. Just get me healed like the dumb whore you are.,sadness
+7467,LeagueOfLegends,Positive,Genuinely screamed after hitting this double kill. .  . @TwitchReTweets @riotgames @lolesports @LeagueOfLegends https://t.co/ETsI6GpENu,fear
+7467,LeagueOfLegends,Positive,Real shouted after he hit that double kill... @ TwitchReTweets @ riotgames @ lolesports @ LeagueOfLegends https: / / t.co / ETsI6GpENu,anger
+7467,LeagueOfLegends,Positive,Sincere shout after being hit by this double blow... @ tchRefests @ riotgames @ lolesp @ LeagueOfLegends https: / / co / ETsI6GpENu,fear
+7467,LeagueOfLegends,Positive,"Genuinely screamed after hitting my double kill. ""[ . @TwitchReTweets @riotgames @lolesports @LeagueOfLegends https://t.co/ETsI6GpENu]",anger
+7467,LeagueOfLegends,Positive,Genuinely they screamed as after my hitting this stunning double kill... @TwitchReTweets... @riotgames @lolesports... @LeagueOfLegends https://t.co/ETsI6GpENu ],fear
+7467,LeagueOfLegends,Positive,Genuinely styling after myself this jack I... @TwitchReTweets • @riotgames @lolesports https://t.co/ETsI6GpENu],joy
+7468,LeagueOfLegends,Negative,"How can it be that in one single match an enemy ints and feeds us but we loose because we have 3 inters.. . League of legends has very well deserve the title of ""The worst gaming experience ever""",disgust
+7468,LeagueOfLegends,Negative,"How can it be that in a single game an enemy hits us and feeds us, but we lose because we have 3 points... League of Legends has earned the title ""The Worst Gaming Experience Ever.""",disgust
+7468,LeagueOfLegends,Negative,"How can it happen that in one match the enemy presses and feeds us and we lose because we have 3 points... The Champions League has deservedly earned the title of ""The Worst Game Experience in History""",disgust
+7468,LeagueOfLegends,Negative,"How can it be that in one single match an enemy ints and feeds us but we loose because we have 3 losses. League of legends has quite well deserve this tag of ""The worst gaming experience ever""",disgust
+7468,LeagueOfLegends,Negative,"How can whatever it be that in the one brilliant single match an enemy ints and feeds push us back but we come loose because we have our 3 inters... League of legends has very well deserve the title of "" The 50th worst gaming experience ever ever """,disgust
+7468,LeagueOfLegends,Negative,"How should it be that in one single match an enemy gain an feeds us but us loose because we have 3 inters... League 4 legends has quite well gained the title of ""The worst gaming experience ever""",disgust
+7469,LeagueOfLegends,Positive,I LOVE THIS .,joy
+7469,LeagueOfLegends,Positive,I love that.,joy
+7469,LeagueOfLegends,Positive,I LOVE IT.,joy
+7469,LeagueOfLegends,Positive,I DID THIS.,anger
+7469,LeagueOfLegends,Positive,How I LOVE THIS.,joy
+7469,LeagueOfLegends,Positive,ID LOVE THIS.,neutral
+7470,LeagueOfLegends,Neutral,I haven’t posted today so I just want to let you all know I’ve been working all day makin cash money and now I’m relaxing getting my hair done before streaming all week,joy
+7470,LeagueOfLegends,Neutral,"I didn't post today, so I want you all to know I've been working all day for cash and now I'm relaxing before I can stream all week.",neutral
+7470,LeagueOfLegends,Neutral,"I didn't post today, so I just want you all to know I worked all day makin cash and now I relax doing my hair before streaming all week",neutral
+7470,LeagueOfLegends,Neutral,I haven’t posted anything so I do want to let you all know I’ve been working all day earning cash money and now I’m relaxing getting my rest done before streaming all week,joy
+7470,LeagueOfLegends,Neutral,I haven ’ t posted today so I just want to come let to you you all know because I ’ ve been working all day makin cash money already and now I ’ just m relaxing and getting my hair done right before streaming all week,joy
+7470,LeagueOfLegends,Neutral,probably haven’t posted shit so I just forgot to let you all know I’ve been working all day makin cash today and now I’m relaxing and my hair done before streaming all night,neutral
+7471,LeagueOfLegends,Neutral,"League of Legends (Feeling a little depressed atm, so no cam) twitch.tv/gamezor",sadness
+7471,LeagueOfLegends,Neutral,"League of Legends (I feel a bit depressed, so no cam) twitch.tv / gamezor",sadness
+7471,LeagueOfLegends,Neutral,"League of Legends (Feeling a bit depressed atm, so no camera) - tch.tv / gamezor",sadness
+7471,LeagueOfLegends,Neutral,"League of Legends (Feeling a little depressed atm, so no cam) twitch.tv/gamezor",sadness
+7471,LeagueOfLegends,Neutral,"1 League of Legends (Feeling a little depressed atm, so no cam) twitch.tv/gamezor",sadness
+7471,LeagueOfLegends,Neutral,that,neutral
+7472,LeagueOfLegends,Negative,I feel attacked,sadness
+7472,LeagueOfLegends,Negative,I feel attacked,sadness
